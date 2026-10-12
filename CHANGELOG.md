@@ -2,6 +2,23 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-12T10-37-04Z
+
+12 changes for RBM's readers (published by @codebyjackson: Sources: public page links and raw-data addresses (PR #90)):
+
+- `sources[clinicaltrials].dataUrl`: — → https://clinicaltrials.gov/api/v2/studies
+- `sources[ema].dataUrl`: — → https://www.ema.europa.eu/en/documents/report/medicines-output-opinions_outside_eu-repo…
+- `sources[nafdac].dataUrl`: — → http://greenbook.nafdac.gov.ng/
+- `sources[tmda].url`: https://imis2.tmda.go.tz/portal/#/public/registered-medicines → https://imis2.tmda.go.tz/#/public/registered-medicines
+- `sources[tmda].dataUrl`: — → https://imis2.tmda.go.tz/publicaccess/onSearchPublicRegisteredproducts
+- `sources[dav].dataUrl`: — → https://dichvucong.dav.gov.vn/api/services/app/soDangKy/GetAllPublicServerPaging
+- `sources[who-mft-guide].url`: https://iris.who.int/server/api/core/bitstreams/3429ad55-4291-4b1a-bdd9-783495692d9b/co… → https://www.who.int/publications/i/item/9789240103603
+- `sources[who-mft-guide].alsoSee`: — → [{"label":{"en":"The PDF itself","fr":"Le PDF lui-même","pt":"O próprio PDF","es":"El p…
+- `sources[who-pq-fpp].dataUrl`: — → https://extranet.who.int/prequal/medicines/prequalified/finished-pharmaceutical-product…
+- `sources[zamra].url`: https://app.zamra.co.zm:42882/portal/publicaccess/onSearchPublicRegisteredproducts?sect… → https://app.zamra.co.zm:42882/portal/#/public/registered-medicines
+- `sources[zamra].dataUrl`: — → https://app.zamra.co.zm:42882/portal/publicaccess/onSearchPublicRegisteredproducts
+- `sources[mcaz].dataUrl`: — → https://onlineservices.mcaz.co.zw/onlineregister/Medicines/GetMedicinesByCategory?categ…
+
 ## 2026-10-08T14-54-47Z
 
 1 change for RBM's readers (published by @codebyjackson: Add Spanish):

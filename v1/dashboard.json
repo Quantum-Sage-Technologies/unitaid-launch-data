@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T14:54:47.425Z",
-  "approved_at": "2026-10-08T14:54:47.425Z",
+  "generated_at": "2026-10-12T10:37:04.362Z",
+  "approved_at": "2026-10-12T10:37:04.362Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Add Spanish"
+    "reason": "Sources: public page links and raw-data addresses (PR #90)"
   },
-  "pipeline_commit": "41cd7af54fb905684da069010aef74a06bc039b3",
-  "content_hash": "49bc4ff864aa0aa6d0488b27270dbb913c39e423f6843cdbfcfe1dfba6e3cb9f",
+  "pipeline_commit": "68944056ded37afb077713ee4b9456f8067174e7",
+  "content_hash": "d6224e0761ad552dc050f5ab3cfdbe33137f2369d27b0acb96c089fd3829fb21",
   "locales": [
     "en",
     "fr",
@@ -182,7 +182,7 @@
         "pt": "Tanzânia: TMDA registar",
         "es": "Tanzania: TMDA registrarse"
       },
-      "url": "https://imis2.tmda.go.tz/portal/#/public/registered-medicines",
+      "url": "https://imis2.tmda.go.tz/#/public/registered-medicines",
       "collection": "automated"
     },
     {
@@ -270,7 +270,7 @@
         "pt": "Guia de implementação da OMS MFT",
         "es": "Guía de implementación de la OMS MFT"
       },
-      "url": "https://iris.who.int/server/api/core/bitstreams/3429ad55-4291-4b1a-bdd9-783495692d9b/content",
+      "url": "https://www.who.int/publications/i/item/9789240103603",
       "collection": "static"
     },
     {
@@ -336,7 +336,7 @@
         "pt": "Zâmbia: Registo ZAMRA",
         "es": "Zambia: Registro de ZAMRA"
       },
-      "url": "https://app.zamra.co.zm:42882/portal/publicaccess/onSearchPublicRegisteredproducts?section_id=2",
+      "url": "https://app.zamra.co.zm:42882/portal/#/public/registered-medicines",
       "collection": "automated"
     },
     {
@@ -4556,6 +4556,7 @@
         "category": "Clinical evidence",
         "group": "data",
         "url": "https://clinicaltrials.gov/",
+        "dataUrl": "https://clinicaltrials.gov/api/v2/studies",
         "year": "Updated daily",
         "products": [
           "all"
@@ -4586,6 +4587,7 @@
         "category": "Regulatory / quality",
         "group": "data",
         "url": "https://www.ema.europa.eu/en/medicines/download-medicine-data",
+        "dataUrl": "https://www.ema.europa.eu/en/documents/report/medicines-output-opinions_outside_eu-report_en.xlsx",
         "year": "Updated nightly",
         "products": [
           "all"
@@ -4829,6 +4831,7 @@
         "category": "National register",
         "group": "data",
         "url": "https://greenbook.nafdac.gov.ng/",
+        "dataUrl": "http://greenbook.nafdac.gov.ng/",
         "year": "Continuous",
         "products": [
           "all"
@@ -4949,7 +4952,8 @@
         "org": "Tanzania Medicines and Medical Devices Authority",
         "category": "National register",
         "group": "data",
-        "url": "https://imis2.tmda.go.tz/portal/#/public/registered-medicines",
+        "url": "https://imis2.tmda.go.tz/#/public/registered-medicines",
+        "dataUrl": "https://imis2.tmda.go.tz/publicaccess/onSearchPublicRegisteredproducts",
         "year": "Continuous",
         "products": [
           "all"
@@ -5040,6 +5044,7 @@
         "category": "National register",
         "group": "data",
         "url": "https://dichvucong.dav.gov.vn/congbothuoc/index",
+        "dataUrl": "https://dichvucong.dav.gov.vn/api/services/app/soDangKy/GetAllPublicServerPaging",
         "year": "Continuous",
         "products": [
           "all"
@@ -5222,7 +5227,18 @@
         "org": "World Health Organization, Global Malaria Programme",
         "category": "MFT strategy",
         "group": "document",
-        "url": "https://iris.who.int/server/api/core/bitstreams/3429ad55-4291-4b1a-bdd9-783495692d9b/content",
+        "url": "https://www.who.int/publications/i/item/9789240103603",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The PDF itself",
+              "fr": "Le PDF lui-même",
+              "pt": "O próprio PDF",
+              "es": "El propio PDF"
+            },
+            "url": "https://iris.who.int/server/api/core/bitstreams/3429ad55-4291-4b1a-bdd9-783495692d9b/content"
+          }
+        ],
         "year": "2024",
         "products": [
           "pyramax",
@@ -5355,6 +5371,7 @@
         "category": "Regulatory / quality",
         "group": "data",
         "url": "https://extranet.who.int/prequal/medicines/prequalified/finished-pharmaceutical-products",
+        "dataUrl": "https://extranet.who.int/prequal/medicines/prequalified/finished-pharmaceutical-products/export?page&_format=csv",
         "alsoSee": [
           {
             "label": {
@@ -5425,7 +5442,8 @@
         "org": "Zambia Medicines Regulatory Authority",
         "category": "National register",
         "group": "data",
-        "url": "https://app.zamra.co.zm:42882/portal/publicaccess/onSearchPublicRegisteredproducts?section_id=2",
+        "url": "https://app.zamra.co.zm:42882/portal/#/public/registered-medicines",
+        "dataUrl": "https://app.zamra.co.zm:42882/portal/publicaccess/onSearchPublicRegisteredproducts",
         "year": "Continuous",
         "products": [
           "all"
@@ -5456,6 +5474,7 @@
         "category": "National register",
         "group": "data",
         "url": "https://onlineservices.mcaz.co.zw/onlineregister/",
+        "dataUrl": "https://onlineservices.mcaz.co.zw/onlineregister/Medicines/GetMedicinesByCategory?category=1",
         "year": "Continuous",
         "products": [
           "all"
