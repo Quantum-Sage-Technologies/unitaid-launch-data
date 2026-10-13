@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T10:37:04.362Z",
-  "approved_at": "2026-10-12T10:37:04.362Z",
+  "generated_at": "2026-10-13T08:38:11.473Z",
+  "approved_at": "2026-10-13",
   "approved_by": "codebyjackson",
   "approval": {
-    "trigger": "manual",
-    "issue": null,
-    "pr": null,
-    "reason": "Sources: public page links and raw-data addresses (PR #90)"
+    "trigger": "approval",
+    "issue": 99,
+    "pr": 100,
+    "reason": null
   },
-  "pipeline_commit": "68944056ded37afb077713ee4b9456f8067174e7",
-  "content_hash": "d6224e0761ad552dc050f5ab3cfdbe33137f2369d27b0acb96c089fd3829fb21",
+  "pipeline_commit": "4f24612edddd6e11acd7b9c6d4b0148c0f2c9651",
+  "content_hash": "b9dcc7219d63d122a8d91119ee9c34ae34ad9e664f6e21c007fe0fc36b002c3c",
   "locales": [
     "en",
     "fr",
@@ -18,7 +18,7 @@
     "es"
   ],
   "data_status": "draft",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-13",
   "source_coverage": [
     {
       "id": "bmjgh-rwanda-mft",
@@ -764,6 +764,16 @@
     },
     "changelog": [
       {
+        "date": "2026-10-13",
+        "product": "GanLum",
+        "plain": {
+          "en": "GanLum — WHO PQ listing updated (source: WHO prequalification list).",
+          "fr": "GanLum — Liste de l'OMS PQ mise à jour (source : liste de préqualification de l'OMS).",
+          "pt": "GanLum — Lista da OMS PQ atualizada (fonte: lista de pré-qualificação da OMS).",
+          "es": "GanLum — Listado PQ de la OMS actualizado (fuente: lista de precalificación de la OMS)."
+        }
+      },
+      {
         "date": "2026-10-08",
         "product": "All",
         "plain": {
@@ -1113,18 +1123,18 @@
             }
           },
           {
-            "status": "idle",
+            "status": "done",
             "note": {
-              "en": "Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)",
-              "fr": "Pas encore sur la liste des déclarations d'intérêt de l'OMS PQ (24e déclaration d'intérêt pour le paludisme, 27 février 2026, vérifiée)",
-              "pt": "Ainda não consta da lista de Manifestações de Interesse (EOI) da OMS PQ (24ª EOI sobre malária, 27 de fevereiro de 2026, verificada)",
-              "es": "Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)"
+              "en": "Prequalified by WHO on 15 Sep 2026 (WHO ref TEST-0001, Novartis Pharma AG).",
+              "fr": "Préqualifié par l'OMS le 15 septembre 2026 (réf. OMS TEST-0001, Novartis Pharma AG).",
+              "pt": "Pré-qualificado pela OMS em 15 de setembro de 2026 (ref. OMS TEST-0001, Novartis Pharma AG).",
+              "es": "Precalificado por la OMS el 15 de septiembre de 2026 (referencia de la OMS TEST-0001, Novartis Pharma AG)."
             },
             "date": {
-              "en": "",
-              "fr": "",
-              "pt": "",
-              "es": ""
+              "en": "15 Sep 2026",
+              "fr": "15 septembre 2026",
+              "pt": "15 de setembro de 2026",
+              "es": "15 de septiembre de 2026"
             },
             "next": {
               "en": "",
@@ -1138,8 +1148,8 @@
               "pt": "",
               "es": ""
             },
-            "source": "WHO PQ EOI list (24th edition)",
-            "asOf": "2026-08-22"
+            "source": "WHO prequalification list (TEST-0001 — https://extranet.who.int/prequal/medicines/prequalified/finished-pharmaceutical-products)",
+            "asOf": "2026-09-21"
           },
           {
             "status": "idle",
