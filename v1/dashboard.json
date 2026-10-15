@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13T08:50:14.095Z",
-  "approved_at": "2026-10-13T08:50:14.095Z",
+  "generated_at": "2026-10-15T15:09:20.842Z",
+  "approved_at": "2026-10-15T15:09:20.843Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Revert test proposal #99 (end-to-end test, 13 Oct)"
+    "reason": "Partner feedback 15 Oct (PRs #107-#110, #112); fr/pt/es translations pending the Google key"
   },
-  "pipeline_commit": "73c1237a279d2d4344dc059a8a7344b8fb431ea8",
-  "content_hash": "d6224e0761ad552dc050f5ab3cfdbe33137f2369d27b0acb96c089fd3829fb21",
+  "pipeline_commit": "638842108ef49747b0489d584365d6d9e75896d9",
+  "content_hash": "f59d26d266e4ba1ac7b57785c9b4f90006ca0871c9de180b6b7a1a267db87210",
   "locales": [
     "en",
     "fr",
@@ -18,7 +18,7 @@
     "es"
   ],
   "data_status": "draft",
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-15",
   "source_coverage": [
     {
       "id": "bmjgh-rwanda-mft",
@@ -355,16 +355,16 @@
     "host": "RBM Partnership to End Malaria",
     "stages": [
       {
-        "en": "R&D & clinical",
-        "fr": "Recherche et développement et clinique",
-        "pt": "I&D e clínica",
-        "es": "Investigación y desarrollo y clínica"
+        "en": "R&D and Clinical",
+        "fr": "R&D and Clinical",
+        "pt": "R&D and Clinical",
+        "es": "R&D and Clinical"
       },
       {
-        "en": "Regulatory approval (SRA)",
-        "fr": "Approbation réglementaire (SRA)",
-        "pt": "Aprovação regulamentar (SRA)",
-        "es": "Aprobación regulatoria (SRA)"
+        "en": "Stringent Regulatory Approval (SRA)",
+        "fr": "Stringent Regulatory Approval (SRA)",
+        "pt": "Stringent Regulatory Approval (SRA)",
+        "es": "Stringent Regulatory Approval (SRA)"
       },
       {
         "en": "WHO recommendation",
@@ -450,10 +450,10 @@
           "es": "El descubrimiento en laboratorio se inicia con tres rondas de ensayos clínicos en humanos: primero para evaluar la seguridad, luego para determinar la dosis adecuada y, finalmente, mediante ensayos de eficacia a gran escala en varios países. Solo los ensayos suelen durar entre 3 y 6 años."
         },
         "who": {
-          "en": "The manufacturer, often with a product development partnership such as MMV.",
-          "fr": "Le fabricant, souvent avec un partenariat de développement de produit tel que MMV.",
-          "pt": "O fabricante, muitas vezes com uma parceria de desenvolvimento de produtos como MMV.",
-          "es": "El fabricante, a menudo con una asociación de desarrollo de productos como MMV."
+          "en": "The manufacturer, often with a product development partnership such as MMV",
+          "fr": "The manufacturer, often with a product development partnership such as MMV",
+          "pt": "The manufacturer, often with a product development partnership such as MMV",
+          "es": "The manufacturer, often with a product development partnership such as MMV"
         },
         "stall": {
           "en": "Recruiting enough patients, and running trial sites in several countries.",
@@ -470,16 +470,16 @@
       },
       {
         "what": {
-          "en": "A stringent regulator reviews the full evidence on quality, safety and effectiveness. For malaria medicines this is usually the European Medicines Agency (EMA) Article 58 procedure, which covers medicines meant for use outside Europe. Every later step builds on this opinion. Health-authority review status is generally not public, so this step changes only when a regulator or the manufacturer announces an outcome.",
-          "fr": "Un organisme de réglementation rigoureux examine l'ensemble des données probantes relatives à la qualité, à la sécurité et à l'efficacité des médicaments. Pour les médicaments antipaludiques, il s'agit généralement de la procédure prévue à l'article 58 de l'Agence européenne des médicaments (EMA), qui concerne les médicaments destinés à être utilisés hors d'Europe. Chaque étape ultérieure s'appuie sur cet avis. Le statut de l'évaluation par les autorités sanitaires n'est généralement pas public ; cette étape n'évolue donc que lorsqu'un organisme de réglementation ou le fabricant annonce une décision.",
-          "pt": "Uma entidade reguladora rigorosa analisa todas as evidências sobre a qualidade, segurança e eficácia. No caso dos medicamentos contra a malária, trata-se geralmente do procedimento do artigo 58.º da Agência Europeia do Medicamento (EMA), que abrange os medicamentos destinados a serem utilizados fora da Europa. Cada etapa subsequente baseia-se nessa avaliação. O estado da análise da autoridade sanitária não é geralmente público, pelo que esta etapa só se altera quando uma entidade reguladora ou o fabricante anuncia um resultado.",
-          "es": "Un organismo regulador riguroso revisa exhaustivamente la evidencia sobre la calidad, la seguridad y la eficacia de los medicamentos. En el caso de los medicamentos contra la malaria, este procedimiento suele seguir el artículo 58 de la Agencia Europea de Medicamentos (EMA), que abarca los medicamentos destinados a ser utilizados fuera de Europa. Cada paso posterior se basa en esta opinión. El estado de la revisión por parte de la autoridad sanitaria generalmente no es público, por lo que este paso solo cambia cuando el organismo regulador o el fabricante anuncian el resultado."
+          "en": "A stringent regulator reviews the full evidence on quality, safety and effectiveness. For malaria medicines this is usually the European Medicines Agency (EMA) Article 58 procedure, which covers medicines meant for use outside Europe. Every later step builds on this opinion. Health authority review status is generally not public, so this step changes only when a regulator or the manufacturer announces an outcome.",
+          "fr": "A stringent regulator reviews the full evidence on quality, safety and effectiveness. For malaria medicines this is usually the European Medicines Agency (EMA) Article 58 procedure, which covers medicines meant for use outside Europe. Every later step builds on this opinion. Health authority review status is generally not public, so this step changes only when a regulator or the manufacturer announces an outcome.",
+          "pt": "A stringent regulator reviews the full evidence on quality, safety and effectiveness. For malaria medicines this is usually the European Medicines Agency (EMA) Article 58 procedure, which covers medicines meant for use outside Europe. Every later step builds on this opinion. Health authority review status is generally not public, so this step changes only when a regulator or the manufacturer announces an outcome.",
+          "es": "A stringent regulator reviews the full evidence on quality, safety and effectiveness. For malaria medicines this is usually the European Medicines Agency (EMA) Article 58 procedure, which covers medicines meant for use outside Europe. Every later step builds on this opinion. Health authority review status is generally not public, so this step changes only when a regulator or the manufacturer announces an outcome."
         },
         "who": {
-          "en": "EMA, or another stringent regulator such as the US FDA.",
-          "fr": "L’EMA, ou un autre organisme de réglementation rigoureux comme la FDA américaine.",
-          "pt": "EMA, ou outro organismo regulador rigoroso, como a FDA dos EUA.",
-          "es": "La EMA u otro organismo regulador estricto como la FDA de Estados Unidos."
+          "en": "EMA, or another stringent regulator such as the US FDA",
+          "fr": "EMA, or another stringent regulator such as the US FDA",
+          "pt": "EMA, or another stringent regulator such as the US FDA",
+          "es": "EMA, or another stringent regulator such as the US FDA"
         },
         "stall": {
           "en": "Preparing the full dossier, then waiting out the review.",
@@ -496,16 +496,16 @@
       },
       {
         "what": {
-          "en": "A WHO expert group weighs the clinical evidence and decides whether the medicine goes into the WHO Guidelines for malaria. Most countries follow these guidelines when writing their own.",
-          "fr": "Un groupe d'experts de l'OMS évalue les données cliniques et décide si le médicament doit être intégré aux directives de l'OMS relatives au paludisme. La plupart des pays suivent ces directives lorsqu'ils élaborent les leurs.",
-          "pt": "Um grupo de peritos da OMS avalia as provas clínicas e decide se o medicamento será incluído nas Guidelines da OMS para a malária. A maioria dos países segue estas orientações ao elaborar as suas próprias.",
-          "es": "Un grupo de expertos de la OMS evalúa la evidencia clínica y decide si el medicamento se incluye en las Directrices de la OMS para la malaria. La mayoría de los países siguen estas directrices al elaborar las suyas propias."
+          "en": "A WHO expert group weighs clinical evidence and decides whether the medicine is included in WHO guidelines for malaria.",
+          "fr": "A WHO expert group weighs clinical evidence and decides whether the medicine is included in WHO guidelines for malaria.",
+          "pt": "A WHO expert group weighs clinical evidence and decides whether the medicine is included in WHO guidelines for malaria.",
+          "es": "A WHO expert group weighs clinical evidence and decides whether the medicine is included in WHO guidelines for malaria."
         },
         "who": {
-          "en": "WHO Global Malaria Programme and its Guidelines Development Group.",
-          "fr": "Programme mondial de lutte contre le paludisme de l'OMS et son Groupe d'élaboration des directives.",
-          "pt": "Programa Global de Malária da OMS e o seu Grupo de Desenvolvimento de Orientações.",
-          "es": "El Programa Mundial contra la Malaria de la OMS y su Grupo de Elaboración de Directrices."
+          "en": "WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guidelines Development Group",
+          "fr": "WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guidelines Development Group",
+          "pt": "WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guidelines Development Group",
+          "es": "WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guidelines Development Group"
         },
         "stall": {
           "en": "The group meets on its own calendar, so the timing is hard to predict.",
@@ -522,16 +522,16 @@
       },
       {
         "what": {
-          "en": "A separate WHO check of quality and manufacturing, including factory inspections. A place on the prequalified list is what lets UN agencies and the Global Fund buy the medicine. The product must first be invited through WHO's Expression of Interest (EOI) list.",
-          "fr": "Un contrôle distinct de la qualité et de la fabrication, incluant des inspections d'usines, est effectué par l'OMS. L'inscription sur la liste des produits préqualifiés permet aux agences des Nations Unies et au Fonds mondial d'acheter le médicament. Le produit doit d'abord être invité par le biais de la liste des manifestations d'intérêt (MI) de l'OMS.",
-          "pt": "É necessária uma verificação independente da OMS sobre a qualidade e o fabrico, incluindo inspeções nas fábricas. A inclusão na lista de pré-qualificados permite às agências da ONU e ao Fundo Global comprar o medicamento. O produto deve ser primeiro convidado através da lista de Manifestação de Interesse (EOI) da OMS.",
-          "es": "La OMS realiza una verificación independiente de la calidad y la fabricación, que incluye inspecciones de fábrica. Estar en la lista de precalificados permite que las agencias de la ONU y el Fondo Mundial adquieran el medicamento. El producto debe ser invitado previamente a través de la lista de Expresiones de Interés (EOI) de la OMS."
+          "en": "A separate WHO check of quality and manufacturing, including factory inspections. Prequalification allows UN agencies and the Global Fund to purchase the medicine. Manufacturers are invited to apply through a WHO Expression of Interest (EOI).",
+          "fr": "A separate WHO check of quality and manufacturing, including factory inspections. Prequalification allows UN agencies and the Global Fund to purchase the medicine. Manufacturers are invited to apply through a WHO Expression of Interest (EOI).",
+          "pt": "A separate WHO check of quality and manufacturing, including factory inspections. Prequalification allows UN agencies and the Global Fund to purchase the medicine. Manufacturers are invited to apply through a WHO Expression of Interest (EOI).",
+          "es": "A separate WHO check of quality and manufacturing, including factory inspections. Prequalification allows UN agencies and the Global Fund to purchase the medicine. Manufacturers are invited to apply through a WHO Expression of Interest (EOI)."
         },
         "who": {
-          "en": "WHO Prequalification Team.",
-          "fr": "Équipe de préqualification de l'OMS.",
-          "pt": "Equipa de Pré-qualificação da OMS.",
-          "es": "Equipo de precalificación de la OMS."
+          "en": "WHO Prequalification Team",
+          "fr": "WHO Prequalification Team",
+          "pt": "WHO Prequalification Team",
+          "es": "WHO Prequalification Team"
         },
         "stall": {
           "en": "Waiting for an invitation round, then for inspections.",
@@ -548,16 +548,16 @@
       },
       {
         "what": {
-          "en": "Each country's own regulator licenses the medicine before it can be sold or used there, usually one country at a time. Regional routes, such as the African Medicines Agency and WHO's collaborative registration (about 90 working days), are meant to speed this up.",
-          "fr": "Chaque organisme de réglementation national délivre une autorisation de mise sur le marché au médicament avant son utilisation, généralement un pays à la fois. Des procédures régionales, comme l'enregistrement conjoint de l'Agence africaine des médicaments et de l'OMS (environ 90 jours ouvrables), visent à accélérer ce processus.",
-          "pt": "Cada organismo regulador nacional licencia o medicamento antes de este poder ser vendido ou utilizado no seu território, geralmente um país de cada vez. Mecanismos regionais, como a Agência Africana do Medicamento e o registo colaborativo da OMS (cerca de 90 dias úteis), visam agilizar este processo.",
-          "es": "El organismo regulador de cada país autoriza el medicamento antes de que pueda venderse o utilizarse en su territorio, generalmente un país a la vez. Los procedimientos regionales, como el registro conjunto de la Agencia Africana de Medicamentos y la OMS (que tarda unos 90 días hábiles), tienen como objetivo agilizar este proceso."
+          "en": "Each country's own regulator licenses the medicine before it can be sold or used there, usually one country at a time. Regional routes, such as the African Medicines Agency and WHO's collaborative registration (about 90 working days), are intended to speed this up.",
+          "fr": "Each country's own regulator licenses the medicine before it can be sold or used there, usually one country at a time. Regional routes, such as the African Medicines Agency and WHO's collaborative registration (about 90 working days), are intended to speed this up.",
+          "pt": "Each country's own regulator licenses the medicine before it can be sold or used there, usually one country at a time. Regional routes, such as the African Medicines Agency and WHO's collaborative registration (about 90 working days), are intended to speed this up.",
+          "es": "Each country's own regulator licenses the medicine before it can be sold or used there, usually one country at a time. Regional routes, such as the African Medicines Agency and WHO's collaborative registration (about 90 working days), are intended to speed this up."
         },
         "who": {
-          "en": "National medicines regulators.",
-          "fr": "Organismes nationaux de réglementation des médicaments.",
-          "pt": "Organismos reguladores nacionais de medicamentos.",
-          "es": "Organismos reguladores nacionales de medicamentos."
+          "en": "National medicines regulators",
+          "fr": "National medicines regulators",
+          "pt": "National medicines regulators",
+          "es": "National medicines regulators"
         },
         "stall": {
           "en": "Going country by country, each with its own queue.",
@@ -574,16 +574,16 @@
       },
       {
         "what": {
-          "en": "The health ministry writes the medicine into the national treatment guidelines. These decide what health workers prescribe and what the public sector buys. A WHO recommendation does not automatically become national policy.",
-          "fr": "Le ministère de la Santé intègre le médicament aux recommandations nationales de traitement. Celles-ci déterminent les prescriptions des professionnels de santé et les achats du secteur public. Une recommandation de l'OMS n'entraîne pas automatiquement l'adoption d'une politique nationale.",
-          "pt": "O Ministério da Saúde inclui o medicamento nas orientações nacionais de tratamento. Estas definem o que os profissionais de saúde prescrevem e o que o setor público compra. Uma recomendação da OMS não se torna automaticamente política nacional.",
-          "es": "El Ministerio de Salud incorpora los medicamentos a las guías nacionales de tratamiento. Estas guías determinan qué medicamentos prescriben los profesionales sanitarios y cuáles adquiere el sector público. Una recomendación de la OMS no se convierte automáticamente en política nacional."
+          "en": "Ministries of Health include the medicine in national treatment guidelines. These decide what health workers prescribe and what the public sector buys.",
+          "fr": "Ministries of Health include the medicine in national treatment guidelines. These decide what health workers prescribe and what the public sector buys.",
+          "pt": "Ministries of Health include the medicine in national treatment guidelines. These decide what health workers prescribe and what the public sector buys.",
+          "es": "Ministries of Health include the medicine in national treatment guidelines. These decide what health workers prescribe and what the public sector buys."
         },
         "who": {
-          "en": "Ministries of health and national malaria programmes.",
-          "fr": "Ministères de la santé et programmes nationaux de lutte contre le paludisme.",
-          "pt": "Ministérios da saúde e programas nacionais de combate à malária.",
-          "es": "Ministerios de salud y programas nacionales de lucha contra la malaria."
+          "en": "Ministries of Health and national malaria programmes",
+          "fr": "Ministries of Health and national malaria programmes",
+          "pt": "Ministries of Health and national malaria programmes",
+          "es": "Ministries of Health and national malaria programmes"
         },
         "stall": {
           "en": "National guideline committees meet rarely and follow their own schedules.",
@@ -600,16 +600,16 @@
       },
       {
         "what": {
-          "en": "Someone has to pay. Funders and governments run tenders, agree reference prices and forecast demand. A medicine can be recommended, registered and in the guidelines and still be barely bought. This step covers public channels only: the figures shown are Global Fund-financed procurement, and sales through private or other channels are not included.",
-          "fr": "Il faut bien que quelqu'un paie. Les bailleurs de fonds et les gouvernements lancent des appels d'offres, fixent des prix de référence et prévoient la demande. Un médicament peut être recommandé, enregistré et figurer dans les directives, et pourtant être très peu acheté. Cette étape ne concerne que les circuits publics : les chiffres présentés correspondent aux achats financés par le Fonds mondial, et les ventes réalisées par des circuits privés ou autres ne sont pas prises en compte.",
-          "pt": "Alguém tem de pagar. Os financiadores e os governos realizam concursos, acordam preços de referência e preveem a procura. Um medicamento pode ser recomendado, registado e constar das diretrizes, e ainda assim ser pouco comprado. Esta etapa abrange apenas os canais públicos: os valores apresentados referem-se às aquisições financiadas pelo Fundo Global, não estando incluídas as vendas através de canais privados ou outros.",
-          "es": "Alguien tiene que pagar. Los financiadores y los gobiernos realizan licitaciones, acuerdan precios de referencia y pronostican la demanda. Un medicamento puede estar recomendado, registrado e incluido en las guías clínicas y aun así tener escasas ventas. Este paso abarca únicamente los canales públicos: las cifras mostradas corresponden a adquisiciones financiadas por el Fondo Mundial, y no se incluyen las ventas a través de canales privados u otros."
+          "en": "Public funders, such as the Global Fund, other donors and national governments, run tenders, agree reference prices and forecast demand. A medicine can be recommended, registered and in the guidelines and still be barely bought. This step covers public channels only: the figures shown are Global Fund-financed procurement. Private commercial channels are not included.",
+          "fr": "Public funders, such as the Global Fund, other donors and national governments, run tenders, agree reference prices and forecast demand. A medicine can be recommended, registered and in the guidelines and still be barely bought. This step covers public channels only: the figures shown are Global Fund-financed procurement. Private commercial channels are not included.",
+          "pt": "Public funders, such as the Global Fund, other donors and national governments, run tenders, agree reference prices and forecast demand. A medicine can be recommended, registered and in the guidelines and still be barely bought. This step covers public channels only: the figures shown are Global Fund-financed procurement. Private commercial channels are not included.",
+          "es": "Public funders, such as the Global Fund, other donors and national governments, run tenders, agree reference prices and forecast demand. A medicine can be recommended, registered and in the guidelines and still be barely bought. This step covers public channels only: the figures shown are Global Fund-financed procurement. Private commercial channels are not included."
         },
         "who": {
-          "en": "The Global Fund, the US President's Malaria Initiative, UNICEF and national governments.",
-          "fr": "Le Fonds mondial, l'Initiative du président américain contre le paludisme, l'UNICEF et les gouvernements nationaux.",
-          "pt": "O Fundo Global, a Iniciativa Presidencial dos EUA contra a Malária, a UNICEF e os governos nacionais.",
-          "es": "El Fondo Mundial, la Iniciativa contra la Malaria del Presidente de los Estados Unidos, UNICEF y los gobiernos nacionales."
+          "en": "The Global Fund, other donors, UNICEF and national governments",
+          "fr": "The Global Fund, other donors, UNICEF and national governments",
+          "pt": "The Global Fund, other donors, UNICEF and national governments",
+          "es": "The Global Fund, other donors, UNICEF and national governments"
         },
         "stall": {
           "en": "Financing cycles. Global Fund grants, for example, run for three years.",
@@ -618,24 +618,24 @@
           "es": "Ciclos de financiación. Las subvenciones del Fondo Mundial, por ejemplo, tienen una duración de tres años."
         },
         "source": {
-          "en": "Global Fund price and quality reporting, PMI",
-          "fr": "Rapports sur les prix et la qualité du Fonds mondial, PMI",
-          "pt": "Relatórios de preços e qualidade dos Fundos Globais, PMI",
-          "es": "Informes de precios y calidad del Fondo Mundial, PMI"
+          "en": "Global Fund price and quality reporting",
+          "fr": "Rapports sur les prix et la qualité du Fonds mondial",
+          "pt": "Relatórios de preços e qualidade do Fundo Global",
+          "es": "Informes sobre precios y calidad del Fondo Mundial"
         }
       },
       {
         "what": {
-          "en": "Getting the medicine from the port to the health facility, training health workers, and watching for side effects once it is in use.",
-          "fr": "Acheminer le médicament du port jusqu'à l'établissement de santé, former le personnel soignant et surveiller les effets secondaires une fois le médicament utilisé.",
-          "pt": "Transportar o medicamento do porto para a unidade de saúde, formar os profissionais de saúde e monitorizar os efeitos secundários após o início da utilização.",
-          "es": "Transportar el medicamento desde el puerto hasta el centro de salud, capacitar al personal sanitario y vigilar los efectos secundarios una vez que se esté utilizando."
+          "en": "Supply from port to health facility, health-worker training, and pharmacovigilance once the medicine is in use.",
+          "fr": "Supply from port to health facility, health-worker training, and pharmacovigilance once the medicine is in use.",
+          "pt": "Supply from port to health facility, health-worker training, and pharmacovigilance once the medicine is in use.",
+          "es": "Supply from port to health facility, health-worker training, and pharmacovigilance once the medicine is in use."
         },
         "who": {
-          "en": "Governments and implementing partners.",
-          "fr": "Gouvernements et partenaires de mise en œuvre.",
-          "pt": "Governos e parceiros de implementação.",
-          "es": "Gobiernos y socios implementadores."
+          "en": "Governments and implementing partners",
+          "fr": "Governments and implementing partners",
+          "pt": "Governments and implementing partners",
+          "es": "Governments and implementing partners"
         },
         "stall": {
           "en": "Supply chain readiness and health-worker training.",
@@ -763,6 +763,26 @@
       }
     },
     "changelog": [
+      {
+        "date": "2026-10-15",
+        "product": "All",
+        "plain": {
+          "en": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.",
+          "fr": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.",
+          "pt": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.",
+          "es": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed."
+        }
+      },
+      {
+        "date": "2026-10-15",
+        "product": "All",
+        "plain": {
+          "en": "We reworded the explanations of the steps on the pathway after partner feedback, and renamed the first two steps \"R&D and Clinical\" and \"Stringent Regulatory Approval (SRA)\". No dates, statuses or figures changed.",
+          "fr": "We reworded the explanations of the steps on the pathway after partner feedback, and renamed the first two steps \"R&D and Clinical\" and \"Stringent Regulatory Approval (SRA)\". No dates, statuses or figures changed.",
+          "pt": "We reworded the explanations of the steps on the pathway after partner feedback, and renamed the first two steps \"R&D and Clinical\" and \"Stringent Regulatory Approval (SRA)\". No dates, statuses or figures changed.",
+          "es": "We reworded the explanations of the steps on the pathway after partner feedback, and renamed the first two steps \"R&D and Clinical\" and \"Stringent Regulatory Approval (SRA)\". No dates, statuses or figures changed."
+        }
+      },
       {
         "date": "2026-10-08",
         "product": "All",
@@ -1728,10 +1748,10 @@
             "asOf": "2026-08-14"
           },
           "useCase": {
-            "en": "Triple ACT to protect artemisinin partner drugs — MFT component and first-line option where artemisinin partial resistance is confirmed.",
-            "fr": "Triple ACT pour protéger les médicaments partenaires de l'artémisinine — composant MFT et option de première ligne lorsque la résistance partielle à l'artémisinine est confirmée.",
-            "pt": "Tripla ACT para proteger os medicamentos parceiros da artemisinina — componente MFT e opção de primeira linha onde se confirma a resistência parcial à artemisinina.",
-            "es": "Triple ACT para proteger los fármacos asociados a la artemisinina: componente MFT y opción de primera línea cuando se confirma la resistencia parcial a la artemisinina."
+            "en": "Triple artemisinin-based combination therapy in clinical development. Its potential future role may include use within treatment-diversification or MFT strategies, subject to clinical results, regulatory assessment, WHO recommendations and country decisions.",
+            "fr": "Triple artemisinin-based combination therapy in clinical development. Its potential future role may include use within treatment-diversification or MFT strategies, subject to clinical results, regulatory assessment, WHO recommendations and country decisions.",
+            "pt": "Triple artemisinin-based combination therapy in clinical development. Its potential future role may include use within treatment-diversification or MFT strategies, subject to clinical results, regulatory assessment, WHO recommendations and country decisions.",
+            "es": "Triple artemisinin-based combination therapy in clinical development. Its potential future role may include use within treatment-diversification or MFT strategies, subject to clinical results, regulatory assessment, WHO recommendations and country decisions."
           },
           "access": [
             {
@@ -1949,7 +1969,7 @@
       {
         "id": "pyramax",
         "name": "ASPY",
-        "inn": "Pyronaridine–artesunate (Pyramax)",
+        "inn": "Artesunate–pyronaridine (Pyramax)",
         "manufacturer": "Shin Poong Pharmaceutical · MMV",
         "class": "market",
         "classLabel": {
@@ -2121,16 +2141,16 @@
           {
             "status": "late",
             "note": {
-              "en": "National guideline inclusion lags WHO's 2022 strong recommendation — Ghana introduced artesunate-pyronaridine as an alternate first-line ACT in 2022 (its third, alongside AS-AQ and AL), but this remains the only confirmed national guideline adoption found; broader inclusion is the core adoption gap LAUNCH is tracking",
-              "fr": "L’intégration des recommandations nationales est en retard par rapport à la recommandation forte de l’OMS de 2022 : le Ghana a introduit l’artésunate-pyronaridine comme traitement de première intention alternatif ACT en 2022 (son troisième, avec l’AS-AQ et l’AL), mais cela reste la seule adoption confirmée de recommandations nationales ; une intégration plus large constitue le principal écart d’adoption LAUNCH",
-              "pt": "A inclusão de orientações nacionais está atrasada em relação à forte recomendação da OMS de 2022 — o Gana introduziu o artesunato-pironaridina como alternativa de primeira linha ACT em 2022 (a sua terceira, juntamente com a AS-AQ e a AL), mas esta continua a ser a única adoção de orientações nacionais confirmada; uma inclusão mais ampla é a principal lacuna de adoção que a LAUNCH está a monitorizar.",
-              "es": "La inclusión de directrices nacionales se queda rezagada con respecto a la recomendación firme de la OMS de 2022: Ghana introdujo artesunato-pironaridina como tratamiento alternativo de primera línea ACT en 2022 (su tercer tratamiento, junto con AS-AQ y AL), pero esta sigue siendo la única adopción de directrices nacionales confirmada; la inclusión más amplia es la principal brecha de adopción que LAUNCH está siguiendo."
+              "en": "In national guidelines in 7 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper. Ghana added artesunate–pyronaridine as an alternate first-line ACT in 2022, alongside AS-AQ and AL",
+              "fr": "In national guidelines in 7 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper. Ghana added artesunate–pyronaridine as an alternate first-line ACT in 2022, alongside AS-AQ and AL",
+              "pt": "In national guidelines in 7 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper. Ghana added artesunate–pyronaridine as an alternate first-line ACT in 2022, alongside AS-AQ and AL",
+              "es": "In national guidelines in 7 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper. Ghana added artesunate–pyronaridine as an alternate first-line ACT in 2022, alongside AS-AQ and AL"
             },
             "date": {
-              "en": "Ghana only (2022)",
-              "fr": "Ghana seulement (2022)",
-              "pt": "Apenas Gana (2022)",
-              "es": "Solo Ghana (2022)"
+              "en": "Ghana 2022; WHO policy table 2024",
+              "fr": "Ghana 2022; WHO policy table 2024",
+              "pt": "Ghana 2022; WHO policy table 2024",
+              "es": "Ghana 2022; WHO policy table 2024"
             },
             "next": {
               "en": "Country guideline committee reviews",
@@ -2144,8 +2164,8 @@
               "pt": "TBC",
               "es": "TBC"
             },
-            "source": "Peer-reviewed therapeutic-efficacy study, Ghana 2023 (published 2026); LAUNCH assessment (draft)",
-            "asOf": "2026-09-08"
+            "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers, including a Ghana therapeutic-efficacy study (see the country access map)",
+            "asOf": "2026-10-05"
           },
           {
             "status": "prog",
@@ -2218,10 +2238,10 @@
             "asOf": "2026-08-23"
           },
           "useCase": {
-            "en": "First-line diversification / MFT component; paediatric granules available; label includes pregnant women (2025 update).",
-            "fr": "Diversification de première ligne / composant MFT ; granulés pédiatriques disponibles ; l'étiquette inclut les femmes enceintes (mise à jour 2025).",
-            "pt": "Diversificação de primeira linha/componente MFT; grânulos pediátricos disponíveis; a bula inclui as grávidas (atualização de 2025).",
-            "es": "Diversificación de primera línea / componente MFT; gránulos pediátricos disponibles; la etiqueta incluye a mujeres embarazadas (actualización de 2025)."
+            "en": "WHO-recommended ACT with verified registration and adoption varying by country. LAUNCH is validating country-level registration, guideline inclusion, MFT positioning, procurement and routine-use information.",
+            "fr": "WHO-recommended ACT with verified registration and adoption varying by country. LAUNCH is validating country-level registration, guideline inclusion, MFT positioning, procurement and routine-use information.",
+            "pt": "WHO-recommended ACT with verified registration and adoption varying by country. LAUNCH is validating country-level registration, guideline inclusion, MFT positioning, procurement and routine-use information.",
+            "es": "WHO-recommended ACT with verified registration and adoption varying by country. LAUNCH is validating country-level registration, guideline inclusion, MFT positioning, procurement and routine-use information."
           },
           "access": [
             {
@@ -2277,15 +2297,15 @@
               "es": "En curso"
             },
             "question": {
-              "en": "MFT deployment models with pyronaridine–artesunate",
-              "fr": "MFT Modèles de déploiement avec pyronaridine-artésunate",
-              "pt": "MFT modelos de implantação com pironaridina-artesunato",
-              "es": "MFT modelos de despliegue con pironaridina-artesunato"
+              "en": "MFT deployment models with artesunate–pyronaridine",
+              "fr": "MFT deployment models with artesunate–pyronaridine",
+              "pt": "MFT deployment models with artesunate–pyronaridine",
+              "es": "MFT deployment models with artesunate–pyronaridine"
             }
           },
           "country": {
-            "registered": 13,
-            "inGuidelines": 11,
+            "registered": 2,
+            "inGuidelines": 7,
             "inMft": 4,
             "forecastDemand": "TBC"
           },
@@ -2388,7 +2408,7 @@
                   "who-wmr-annex-4b"
                 ],
                 "checked": "2026-10-05",
-                "note": "WHO writes \"PY\"; read as pyronaridine-artesunate"
+                "note": "WHO writes \"PY\"; read as artesunate–pyronaridine"
               },
               {
                 "iso3": "SSD",
@@ -2670,16 +2690,16 @@
               },
               "status": "late",
               "label": {
-                "en": "Ghana only — 1 country confirmed",
-                "fr": "Ghana seulement — 1 pays confirmé",
-                "pt": "Apenas Gana — 1 país confirmado",
-                "es": "Ghana solamente — 1 país confirmado"
+                "en": "7 countries, plus 4 with MFT plans",
+                "fr": "7 countries, plus 4 with MFT plans",
+                "pt": "7 countries, plus 4 with MFT plans",
+                "es": "7 countries, plus 4 with MFT plans"
               },
               "date": {
-                "en": "Ghana, 2022",
-                "fr": "Ghana, 2022",
-                "pt": "Gana, 2022",
-                "es": "Ghana, 2022"
+                "en": "Ghana 2022; WHO policy table 2024",
+                "fr": "Ghana 2022; WHO policy table 2024",
+                "pt": "Ghana 2022; WHO policy table 2024",
+                "es": "Ghana 2022; WHO policy table 2024"
               },
               "next": {
                 "en": "Committee reviews in other endemic countries",
@@ -2693,7 +2713,7 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "Peer-reviewed therapeutic-efficacy study, Ghana 2023 (published 2026)"
+              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)"
             },
             {
               "milestone": {
@@ -2747,16 +2767,16 @@
         "phase": "access",
         "currentStage": 6,
         "flag": {
-          "en": "Procurement is the current access barrier — 0.9–4.5% of Global Fund antimalarial spend 2022–24 despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)",
-          "fr": "L’approvisionnement constitue actuellement l’obstacle à l’accès — 0,9 à 4,5 % des dépenses du Fonds mondial pour les antipaludiques entre 2022 et 2024, malgré une recommandation de l’OMS datant de 2010, bien que les commandes de 2025 aient fortement augmenté (PQR, rapport encore incomplet).",
-          "pt": "A aquisição é a atual barreira de acesso — representando 0,9–4,5% das despesas do Fundo Global com antimaláricos entre 2022 e 2024, apesar de uma recomendação da OMS datada de 2010, embora os pedidos para 2025 tenham aumentado consideravelmente (PQR, relatório ainda incompleto).",
-          "es": "La adquisición es la principal barrera de acceso actual: entre el 0,9 % y el 4,5 % del gasto del Fondo Mundial en antipalúdicos entre 2022 y 2024, a pesar de una recomendación de la OMS que data de 2010, aunque los pedidos de 2025 aumentaron considerablemente (PQR, informe aún incompleto)."
+          "en": "Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24, despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)",
+          "fr": "Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24, despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)",
+          "pt": "Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24, despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)",
+          "es": "Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24, despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)"
         },
         "barrier": {
-          "en": "Only 0.9–4.5% of Global Fund spend, 2022–24",
-          "fr": "Seulement 0,9 à 4,5 % des dépenses du Fonds mondial, 2022-2024",
-          "pt": "Apenas 0,9–4,5% das despesas do Fundo Global, 2022–2024",
-          "es": "Solo entre el 0,9 % y el 4,5 % del gasto del Fondo Mundial, 2022-2024."
+          "en": "Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24",
+          "fr": "Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24",
+          "pt": "Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24",
+          "es": "Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24"
         },
         "stages": [
           {
@@ -2878,10 +2898,10 @@
           {
             "status": "done",
             "note": {
-              "en": "Registered widely; adopted as first-line in several Southeast Asian countries. Register-verified so far: Tanzania — 10 presentations across four manufacturers (Guilin D-ARTEPP incl. paediatric dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), all Registered/Compliant; Nigeria — 47 presentations, but only 26 Active (22 lapsed — registrations not being maintained, itself an underuse signal)",
-              "fr": "Largement enregistré ; adopté comme traitement de première intention dans plusieurs pays d’Asie du Sud-Est. Enregistrements vérifiés à ce jour : Tanzanie — 10 présentations de quatre fabricants (Guilin D-ARTEPP, y compris la forme pédiatrique dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), toutes enregistrées et conformes ; Nigéria — 47 présentations, dont seulement 26 actives (22 enregistrements expirés — non maintenus, signe de sous-utilisation).",
-              "pt": "Amplamente registado; adotado como primeira linha em vários países do Sudeste Asiático. Registos verificados até à data: Tanzânia — 10 apresentações de quatro fabricantes (Guilin D-ARTEPP, incluindo a versão pediátrica dispersível; KBN-Zhejiang Duo-Cotecxin; Ajanta Ridmal), todos registados/em conformidade; Nigéria — 47 apresentações, mas apenas 26 ativas (22 expiradas — registos não mantidos, o que por si só indica subutilização).",
-              "es": "Ampliamente registrado; adoptado como tratamiento de primera línea en varios países del sudeste asiático. Registro verificado hasta la fecha: Tanzania: 10 presentaciones de cuatro fabricantes (Guilin D-ARTEPP, incluyendo la presentación pediátrica dispersable, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), todas registradas y conformes; Nigeria: 47 presentaciones, pero solo 26 activas (22 caducadas; los registros no se mantienen, lo que constituye una señal de subutilización)."
+              "en": "Confirmed in six national registers so far: Nigeria, Rwanda, Tanzania, Viet Nam, Zambia and Zimbabwe. Register detail: Tanzania — 10 presentations across four manufacturers (Guilin D-ARTEPP incl. paediatric dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), all Registered/Compliant; Nigeria — 47 presentations, of which 25 are active and 22 have lapsed (registrations not being maintained, itself an underuse signal)",
+              "fr": "Confirmed in six national registers so far: Nigeria, Rwanda, Tanzania, Viet Nam, Zambia and Zimbabwe. Register detail: Tanzania — 10 presentations across four manufacturers (Guilin D-ARTEPP incl. paediatric dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), all Registered/Compliant; Nigeria — 47 presentations, of which 25 are active and 22 have lapsed (registrations not being maintained, itself an underuse signal)",
+              "pt": "Confirmed in six national registers so far: Nigeria, Rwanda, Tanzania, Viet Nam, Zambia and Zimbabwe. Register detail: Tanzania — 10 presentations across four manufacturers (Guilin D-ARTEPP incl. paediatric dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), all Registered/Compliant; Nigeria — 47 presentations, of which 25 are active and 22 have lapsed (registrations not being maintained, itself an underuse signal)",
+              "es": "Confirmed in six national registers so far: Nigeria, Rwanda, Tanzania, Viet Nam, Zambia and Zimbabwe. Register detail: Tanzania — 10 presentations across four manufacturers (Guilin D-ARTEPP incl. paediatric dispersible, KBN-Zhejiang Duo-Cotecxin, Ajanta Ridmal), all Registered/Compliant; Nigeria — 47 presentations, of which 25 are active and 22 have lapsed (registrations not being maintained, itself an underuse signal)"
             },
             "date": {
               "en": "Rolling",
@@ -2901,22 +2921,22 @@
               "pt": "TBC",
               "es": "TBC"
             },
-            "source": "MMV / WHO; NAFDAC Greenbook + TMDA IMIS2 registers (extracts 23 Aug 2026)",
-            "asOf": "2026-08-23"
+            "source": "NAFDAC, Rwanda FDA, TMDA, DAV, ZAMRA and MCAZ registers (see the country access map); NAFDAC Greenbook + TMDA IMIS2 extracts 31 Aug 2026",
+            "asOf": "2026-10-05"
           },
           {
             "status": "prog",
             "note": {
-              "en": "First-line in several SE Asian countries; consideration in African MFT strategies growing; verified country counts pending",
-              "fr": "Traitement de première intention dans plusieurs pays d’Asie du Sud-Est ; prise en compte croissante dans les stratégies MFT africaines ; décompte vérifié des pays en attente",
-              "pt": "Primeira linha em vários países do Sudeste Asiático; consideração crescente nas estratégias MFT africanas; contagem verificada de países pendente",
-              "es": "Primera línea en varios países del sudeste asiático; creciente consideración en las estrategias africanas MFT; recuentos de países verificados pendientes"
+              "en": "In national guidelines in 9 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper",
+              "fr": "In national guidelines in 9 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper",
+              "pt": "In national guidelines in 9 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper",
+              "es": "In national guidelines in 9 countries on the country access map, and in MFT plans in 4 more; each country is cited to a WHO publication or a peer-reviewed paper"
             },
             "date": {
-              "en": "",
-              "fr": "",
-              "pt": "",
-              "es": ""
+              "en": "WHO policy table 2024",
+              "fr": "WHO policy table 2024",
+              "pt": "WHO policy table 2024",
+              "es": "WHO policy table 2024"
             },
             "next": {
               "en": "MFT strategy decisions",
@@ -2930,16 +2950,16 @@
               "pt": "TBC",
               "es": "TBC"
             },
-            "source": "LAUNCH assessment (draft)",
-            "asOf": "2026-08-14"
+            "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)",
+            "asOf": "2026-10-05"
           },
           {
             "status": "late",
             "note": {
-              "en": "Global Fund procurement held at 0.9–4.5% of antimalarial spend 2022–24 (US$41.5m / 11.5m packs cumulative since 2008) — chronic underuse; 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes",
-              "fr": "Les achats du Fonds mondial se sont maintenus entre 0,9 et 4,5 % des dépenses antipaludiques de 2022 à 2024 (41,5 millions de dollars US / 11,5 millions de boîtes cumulées depuis 2008) — une sous-utilisation chronique ; 2025 montre une forte hausse (15,3 millions de dollars US, principalement grâce à l'Ouganda, Madagascar et le Mozambique) qui reste à confirmer une fois les rapports finalisés.",
-              "pt": "As aquisições do Fundo Global mantiveram-se entre 0,9% e 4,5% das despesas com antimaláricos no período de 2022 a 2024 (41,5 milhões de dólares / 11,5 milhões de embalagens acumuladas desde 2008) — subutilização crónica; em 2025, observa-se um aumento acentuado (15,3 milhões de dólares, liderado pelo Uganda, Madagáscar e Moçambique), que necessita de ser confirmado após a conclusão dos relatórios.",
-              "es": "Las adquisiciones del Fondo Mundial se mantuvieron entre el 0,9 % y el 4,5 % del gasto en antipalúdicos entre 2022 y 2024 (41,5 millones de dólares estadounidenses / 11,5 millones de paquetes acumulados desde 2008), lo que evidencia un uso insuficiente crónico; en 2025 se observa un fuerte repunte (15,3 millones de dólares estadounidenses, liderado por Uganda, Madagascar y Mozambique) que necesita confirmación una vez finalizada la presentación de informes."
+              "en": "Global Fund orders go back to 2008 (US$41.5m / 11.5m packs in all, 2008–2026), but have stayed small: 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24 (4.4% in 2022, 0.9% in 2023, 4.5% in 2024, by order date). The timeline counts from WHO prequalification in 2015. 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes",
+              "fr": "Global Fund orders go back to 2008 (US$41.5m / 11.5m packs in all, 2008–2026), but have stayed small: 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24 (4.4% in 2022, 0.9% in 2023, 4.5% in 2024, by order date). The timeline counts from WHO prequalification in 2015. 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes",
+              "pt": "Global Fund orders go back to 2008 (US$41.5m / 11.5m packs in all, 2008–2026), but have stayed small: 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24 (4.4% in 2022, 0.9% in 2023, 4.5% in 2024, by order date). The timeline counts from WHO prequalification in 2015. 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes",
+              "es": "Global Fund orders go back to 2008 (US$41.5m / 11.5m packs in all, 2008–2026), but have stayed small: 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24 (4.4% in 2022, 0.9% in 2023, 4.5% in 2024, by order date). The timeline counts from WHO prequalification in 2015. 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes"
             },
             "date": {
               "en": "Since 2008",
@@ -2965,10 +2985,10 @@
           {
             "status": "prog",
             "note": {
-              "en": "Routine use concentrated in Southeast Asia and chemoprevention niches",
-              "fr": "Son utilisation courante est concentrée en Asie du Sud-Est et dans des créneaux spécifiques de chimioprévention.",
-              "pt": "O uso de rotina concentra-se no Sudeste Asiático e em nichos de quimioprevenção.",
-              "es": "Su uso rutinario se concentra en el sudeste asiático y en nichos de quimioprevención."
+              "en": "Routine use and procurement vary substantially between countries",
+              "fr": "Routine use and procurement vary substantially between countries",
+              "pt": "Routine use and procurement vary substantially between countries",
+              "es": "Routine use and procurement vary substantially between countries"
             },
             "date": {
               "en": "",
@@ -3006,10 +3026,10 @@
             "asOf": "2026-08-23"
           },
           "useCase": {
-            "en": "MFT rotation partner; mass drug administration and chemoprevention niches; once-daily dosing.",
-            "fr": "MFT partenaire de rotation ; niches d'administration massive de médicaments et de chimioprévention ; dosage une fois par jour.",
-            "pt": "MFT parceiro de rotação; nichos de administração em massa de fármacos e quimioprevenção; posologia única diária.",
-            "es": "MFT socio de rotación; administración masiva de fármacos y nichos de quimioprevención; dosificación una vez al día."
+            "en": "WHO-recommended ACT used for treatment in a range of settings and potentially relevant to MFT strategies. Chemoprevention and mass drug administration are separate uses, each with its own indications, formulations, evidence and policy pathway.",
+            "fr": "WHO-recommended ACT used for treatment in a range of settings and potentially relevant to MFT strategies. Chemoprevention and mass drug administration are separate uses, each with its own indications, formulations, evidence and policy pathway.",
+            "pt": "WHO-recommended ACT used for treatment in a range of settings and potentially relevant to MFT strategies. Chemoprevention and mass drug administration are separate uses, each with its own indications, formulations, evidence and policy pathway.",
+            "es": "WHO-recommended ACT used for treatment in a range of settings and potentially relevant to MFT strategies. Chemoprevention and mass drug administration are separate uses, each with its own indications, formulations, evidence and policy pathway."
           },
           "access": [
             {
@@ -3065,15 +3085,15 @@
               "es": "En curso"
             },
             "question": {
-              "en": "MFT rotation sequencing and resistance impact",
-              "fr": "MFT séquence de rotation et impact de résistance",
-              "pt": "MFT Sequenciação da rotação e impacto da resistência",
-              "es": "MFT secuencia de rotación e impacto de la resistencia"
+              "en": "MFT deployment (simultaneous, cycling or rotation) and resistance impact",
+              "fr": "MFT deployment (simultaneous, cycling or rotation) and resistance impact",
+              "pt": "MFT deployment (simultaneous, cycling or rotation) and resistance impact",
+              "es": "MFT deployment (simultaneous, cycling or rotation) and resistance impact"
             }
           },
           "country": {
-            "registered": 15,
-            "inGuidelines": 13,
+            "registered": 2,
+            "inGuidelines": 9,
             "inMft": 4,
             "forecastDemand": "TBC"
           },
@@ -3459,23 +3479,23 @@
             },
             {
               "milestone": {
-                "en": "Register verification (NGA, TZA)",
-                "fr": "Vérification du registre (NGA, TZA)",
-                "pt": "Verificação do registo (NGA, TZA)",
-                "es": "Verificación de registro (NGA, TZA)"
+                "en": "Register detail: Tanzania and Nigeria",
+                "fr": "Register detail: Tanzania and Nigeria",
+                "pt": "Register detail: Tanzania and Nigeria",
+                "es": "Register detail: Tanzania and Nigeria"
               },
               "status": "done",
               "label": {
-                "en": "TZA 10 compliant · NGA 26/47 active",
-                "fr": "Conforme TZA 10 · NGA 26/47 actif",
-                "pt": "Compatível com TZA 10 · NGA 26/47 ativo",
-                "es": "Cumple con TZA 10 · NGA 26/47 activo"
+                "en": "Tanzania: 10 registered presentations, all compliant · Nigeria: 47 registered presentations, 25 active, 22 lapsed",
+                "fr": "Tanzania: 10 registered presentations, all compliant · Nigeria: 47 registered presentations, 25 active, 22 lapsed",
+                "pt": "Tanzania: 10 registered presentations, all compliant · Nigeria: 47 registered presentations, 25 active, 22 lapsed",
+                "es": "Tanzania: 10 registered presentations, all compliant · Nigeria: 47 registered presentations, 25 active, 22 lapsed"
               },
               "date": {
-                "en": "Extracts 23 Aug 2026",
-                "fr": "Extraits du 23 août 2026",
-                "pt": "Extratos de 23 de agosto de 2026",
-                "es": "Extractos del 23 de agosto de 2026"
+                "en": "Extracts 31 Aug 2026",
+                "fr": "Extracts 31 Aug 2026",
+                "pt": "Extracts 31 Aug 2026",
+                "es": "Extracts 31 Aug 2026"
               },
               "next": {
                 "en": "Further countries",
@@ -3500,16 +3520,16 @@
               },
               "status": "prog",
               "label": {
-                "en": "Counts TBC",
-                "fr": "Nombre de cas à confirmer",
-                "pt": "Contagem a confirmar",
-                "es": "Recuentos por confirmar"
+                "en": "9 countries, plus 4 with MFT plans",
+                "fr": "9 countries, plus 4 with MFT plans",
+                "pt": "9 countries, plus 4 with MFT plans",
+                "es": "9 countries, plus 4 with MFT plans"
               },
               "date": {
-                "en": "—",
-                "fr": "—",
-                "pt": "—",
-                "es": "—"
+                "en": "WHO policy table 2024",
+                "fr": "WHO policy table 2024",
+                "pt": "WHO policy table 2024",
+                "es": "WHO policy table 2024"
               },
               "next": {
                 "en": "MFT strategy decisions",
@@ -3523,7 +3543,7 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "LAUNCH assessment (draft)"
+              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)"
             },
             {
               "milestone": {
@@ -4897,10 +4917,10 @@
           "pyramax"
         ],
         "plain": {
-          "en": "A study of how pyronaridine-artesunate performed in ordinary clinical use across five African countries.",
-          "fr": "Une étude sur les performances de la pyronaridine-artésunate en usage clinique courant dans cinq pays africains.",
-          "pt": "Um estudo sobre o desempenho da pironaridina-artesunato no uso clínico comum em cinco países africanos.",
-          "es": "Un estudio sobre el rendimiento de la pironaridina-artesunato en el uso clínico habitual en cinco países africanos."
+          "en": "A study of how artesunate–pyronaridine performed in ordinary clinical use across five African countries.",
+          "fr": "A study of how artesunate–pyronaridine performed in ordinary clinical use across five African countries.",
+          "pt": "A study of how artesunate–pyronaridine performed in ordinary clinical use across five African countries.",
+          "es": "A study of how artesunate–pyronaridine performed in ordinary clinical use across five African countries."
         },
         "collection": "static"
       },
@@ -5183,7 +5203,7 @@
           "pt": "Mapa de Ameaças da Malária da OMS",
           "es": "Mapa de amenazas de malaria de la OMS"
         },
-        "org": "WHO Global Malaria Programme",
+        "org": "WHO Department of Malaria and Neglected Tropical Diseases (MNT)",
         "category": "Surveillance database",
         "group": "data",
         "url": "https://apps.who.int/malaria/maps/threats/",
@@ -5224,7 +5244,7 @@
           "pt": "Guia de implementação da OMS MFT",
           "es": "Guía de implementación de la OMS MFT"
         },
-        "org": "World Health Organization, Global Malaria Programme",
+        "org": "World Health Organization, Department of Malaria and Neglected Tropical Diseases (MNT)",
         "category": "MFT strategy",
         "group": "document",
         "url": "https://www.who.int/publications/i/item/9789240103603",
