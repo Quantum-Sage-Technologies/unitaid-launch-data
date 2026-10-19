@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-15T15:09:20.842Z",
-  "approved_at": "2026-10-15T15:09:20.843Z",
+  "generated_at": "2026-10-19T06:05:03.513Z",
+  "approved_at": "2026-10-19T06:05:03.513Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Partner feedback 15 Oct (PRs #107-#110, #112); fr/pt/es translations pending the Google key"
+    "reason": "Citations on individual claims and 14 verified references (15 Oct feedback, #117)"
   },
-  "pipeline_commit": "638842108ef49747b0489d584365d6d9e75896d9",
-  "content_hash": "f59d26d266e4ba1ac7b57785c9b4f90006ca0871c9de180b6b7a1a267db87210",
+  "pipeline_commit": "e269db1c47768b0863092f5e41a469573491e79d",
+  "content_hash": "4beec9e9ac291fa6d6db4c0ce265a874de36f21440d7eeda3dbf8b3863ca97e2",
   "locales": [
     "en",
     "fr",
@@ -18,7 +18,7 @@
     "es"
   ],
   "data_status": "draft",
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-19",
   "source_coverage": [
     {
       "id": "bmjgh-rwanda-mft",
@@ -349,6 +349,160 @@
       },
       "url": "https://onlineservices.mcaz.co.zw/onlineregister/",
       "collection": "automated"
+    },
+    {
+      "id": "mmv-ganlum-phase3",
+      "label": {
+        "en": "MMV: GanLum Phase III results, 2025",
+        "fr": "MMV: GanLum Phase III results, 2025",
+        "pt": "MMV: GanLum Phase III results, 2025",
+        "es": "MMV: GanLum Phase III results, 2025"
+      },
+      "url": "https://www.mmv.org/newsroom/news-resources-search/phase-3-trial-next-generation-malaria-treatment-ganaplacide-lumefantrine",
+      "collection": "static"
+    },
+    {
+      "id": "ctgov-kaluma",
+      "label": {
+        "en": "ClinicalTrials.gov: KALUMA trial",
+        "fr": "ClinicalTrials.gov: KALUMA trial",
+        "pt": "ClinicalTrials.gov: KALUMA trial",
+        "es": "ClinicalTrials.gov: KALUMA trial"
+      },
+      "url": "https://clinicaltrials.gov/study/NCT05842954",
+      "collection": "static"
+    },
+    {
+      "id": "who-pq-eoi-malaria-24",
+      "label": {
+        "en": "WHO PQ: 24th malaria EOI invitation, 2025",
+        "fr": "WHO PQ: 24th malaria EOI invitation, 2025",
+        "pt": "WHO PQ: 24th malaria EOI invitation, 2025",
+        "es": "WHO PQ: 24th malaria EOI invitation, 2025"
+      },
+      "url": "https://extranet.who.int/prequal/news/24th-invitation-manufacturers-antimalarial-medicines-submit-expression-interest-eoi-product",
+      "collection": "static"
+    },
+    {
+      "id": "clinicaltrials-fd-tact",
+      "label": {
+        "en": "ClinicalTrials.gov: FD-TACT trial",
+        "fr": "ClinicalTrials.gov: FD-TACT trial",
+        "pt": "ClinicalTrials.gov: FD-TACT trial",
+        "es": "ClinicalTrials.gov: FD-TACT trial"
+      },
+      "url": "https://clinicaltrials.gov/study/NCT05951595",
+      "collection": "static"
+    },
+    {
+      "id": "cpt-alaq-dose-2025",
+      "label": {
+        "en": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+        "fr": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+        "pt": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+        "es": "Clin Pharmacol Ther: ALAQ dosing, 2025"
+      },
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11993281/",
+      "collection": "static"
+    },
+    {
+      "id": "who-pado-malaria-2025",
+      "label": {
+        "en": "WHO: child malaria medicine priorities, 2025",
+        "fr": "WHO: child malaria medicine priorities, 2025",
+        "pt": "WHO: child malaria medicine priorities, 2025",
+        "es": "WHO: child malaria medicine priorities, 2025"
+      },
+      "url": "https://www.who.int/publications/i/item/9789240116986",
+      "collection": "static"
+    },
+    {
+      "id": "ghit-alaq-fdc",
+      "label": {
+        "en": "GHIT Fund: ALAQ Phase III project",
+        "fr": "GHIT Fund: ALAQ Phase III project",
+        "pt": "GHIT Fund: ALAQ Phase III project",
+        "es": "GHIT Fund: ALAQ Phase III project"
+      },
+      "url": "https://www.ghitfund.org/investment/portfoliodetail/detail/215/en",
+      "collection": "static"
+    },
+    {
+      "id": "mmv-pyramax",
+      "label": {
+        "en": "MMV: Pyramax (ASPY) product page",
+        "fr": "MMV: Pyramax (ASPY) product page",
+        "pt": "MMV: Pyramax (ASPY) product page",
+        "es": "MMV: Pyramax (ASPY) product page"
+      },
+      "url": "https://www.mmv.org/mmv-pipeline-antimalarial-drugs/pyronaridine-artesunate",
+      "collection": "static"
+    },
+    {
+      "id": "mmv-pyramax-pregnancy",
+      "label": {
+        "en": "MMV: Pyramax pregnancy label update, 2025",
+        "fr": "MMV: Pyramax pregnancy label update, 2025",
+        "pt": "MMV: Pyramax pregnancy label update, 2025",
+        "es": "MMV: Pyramax pregnancy label update, 2025"
+      },
+      "url": "https://www.mmv.org/news-resources-search/pyramaxr-label-update-now-includes-information-treatment-pregnant-women",
+      "collection": "static"
+    },
+    {
+      "id": "mmv-dhappq",
+      "label": {
+        "en": "MMV: Eurartesim (DHA–PPQ) product page",
+        "fr": "MMV: Eurartesim (DHA–PPQ) product page",
+        "pt": "MMV: Eurartesim (DHA–PPQ) product page",
+        "es": "MMV: Eurartesim (DHA–PPQ) product page"
+      },
+      "url": "https://www.mmv.org/mmv-pipeline-antimalarial-drugs/dihydroartemisinin-piperaquine",
+      "collection": "static"
+    },
+    {
+      "id": "ema-pyramax",
+      "label": {
+        "en": "EMA: Pyramax opinion, 2012",
+        "fr": "EMA: Pyramax opinion, 2012",
+        "pt": "EMA: Pyramax opinion, 2012",
+        "es": "EMA: Pyramax opinion, 2012"
+      },
+      "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/pyramax",
+      "collection": "static"
+    },
+    {
+      "id": "ema-eurartesim",
+      "label": {
+        "en": "EMA: Eurartesim authorisation, 2011",
+        "fr": "EMA: Eurartesim authorisation, 2011",
+        "pt": "EMA: Eurartesim authorisation, 2011",
+        "es": "EMA: Eurartesim authorisation, 2011"
+      },
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eurartesim",
+      "collection": "static"
+    },
+    {
+      "id": "who-guidelines-2010",
+      "label": {
+        "en": "WHO malaria treatment guidelines, 2010",
+        "fr": "WHO malaria treatment guidelines, 2010",
+        "pt": "WHO malaria treatment guidelines, 2010",
+        "es": "WHO malaria treatment guidelines, 2010"
+      },
+      "url": "https://iris.who.int/handle/10665/44227",
+      "collection": "static"
+    },
+    {
+      "id": "whopar-ma093",
+      "label": {
+        "en": "WHO assessment report: Eurartesim",
+        "fr": "WHO assessment report: Eurartesim",
+        "pt": "WHO assessment report: Eurartesim",
+        "es": "WHO assessment report: Eurartesim"
+      },
+      "url": "https://extranet.who.int/prequal/sites/default/files/whopar_files/MA093%20part7v3.pdf",
+      "collection": "static"
     }
   ],
   "data": {
@@ -764,6 +918,16 @@
     },
     "changelog": [
       {
+        "date": "2026-10-19",
+        "product": "All",
+        "plain": {
+          "en": "Each stage and milestone now links to the public source behind it, and we added 14 references to the Sources list. We removed ALAQ's target dates for approval and WHO prequalification, which no public source confirms, and corrected a few details to match the sources. No statuses changed.",
+          "fr": "Each stage and milestone now links to the public source behind it, and we added 14 references to the Sources list. We removed ALAQ's target dates for approval and WHO prequalification, which no public source confirms, and corrected a few details to match the sources. No statuses changed.",
+          "pt": "Each stage and milestone now links to the public source behind it, and we added 14 references to the Sources list. We removed ALAQ's target dates for approval and WHO prequalification, which no public source confirms, and corrected a few details to match the sources. No statuses changed.",
+          "es": "Each stage and milestone now links to the public source behind it, and we added 14 references to the Sources list. We removed ALAQ's target dates for approval and WHO prequalification, which no public source confirms, and corrected a few details to match the sources. No statuses changed."
+        }
+      },
+      {
         "date": "2026-10-15",
         "product": "All",
         "plain": {
@@ -1050,10 +1214,10 @@
           {
             "status": "done",
             "note": {
-              "en": "Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; registry records 1,720 participants and trial completion 25 Nov 2025 (34 sites, 12 African countries)",
-              "fr": "La phase III (KALUMA, NCT05842954) a atteint son critère d'évaluation principal : taux de guérison corrigé de 97,4 % PCR ; le registre enregistre 1 720 participants et l'essai devrait se terminer le 25 novembre 2025 (34 sites, 12 pays africains).",
-              "pt": "A Fase III (KALUMA, NCT05842954) atingiu o objetivo primário: taxa de cura corrigida para PCR de 97,4%; o registo inclui 1.720 participantes e a conclusão do estudo está prevista para 25 de novembro de 2025 (34 centros, 12 países africanos).",
-              "es": "La fase III (KALUMA, NCT05842954) alcanzó el objetivo principal: tasa de curación corregida PCR del 97,4 %; el registro registra 1720 participantes y la finalización del ensayo el 25 de noviembre de 2025 (34 centros, 12 países africanos)."
+              "en": "Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; registry records 1,720 participants and trial completion 25 Nov 2025 (33 sites, 12 African countries)",
+              "fr": "Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; registry records 1,720 participants and trial completion 25 Nov 2025 (33 sites, 12 African countries)",
+              "pt": "Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; registry records 1,720 participants and trial completion 25 Nov 2025 (33 sites, 12 African countries)",
+              "es": "Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; registry records 1,720 participants and trial completion 25 Nov 2025 (33 sites, 12 African countries)"
             },
             "date": {
               "en": "Announced 12 Nov 2025; trial completed 25 Nov 2025",
@@ -1074,7 +1238,12 @@
               "es": ""
             },
             "source": "Novartis / MMV press releases, 12 Nov 2025; ClinicalTrials.gov NCT05842954",
-            "asOf": "2026-08-22"
+            "asOf": "2026-08-22",
+            "sources": [
+              "novartis-kaluma",
+              "mmv-ganlum-phase3",
+              "ctgov-kaluma"
+            ]
           },
           {
             "status": "prog",
@@ -1103,7 +1272,11 @@
               "es": "TBC"
             },
             "source": "Novartis announcement, Nov 2025",
-            "asOf": "2026-08-14"
+            "asOf": "2026-08-14",
+            "sources": [
+              "novartis-kaluma",
+              "mmv-ganlum-phase3"
+            ]
           },
           {
             "status": "idle",
@@ -1135,10 +1308,10 @@
           {
             "status": "idle",
             "note": {
-              "en": "Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)",
-              "fr": "Pas encore sur la liste des déclarations d'intérêt de l'OMS PQ (24e déclaration d'intérêt pour le paludisme, 27 février 2026, vérifiée)",
-              "pt": "Ainda não consta da lista de Manifestações de Interesse (EOI) da OMS PQ (24ª EOI sobre malária, 27 de fevereiro de 2026, verificada)",
-              "es": "Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked)"
+              "en": "Not on the WHO PQ EOI list yet (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "fr": "Not on the WHO PQ EOI list yet (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "pt": "Not on the WHO PQ EOI list yet (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "es": "Not on the WHO PQ EOI list yet (24th malaria EOI, updated 27 Feb 2026, checked)"
             },
             "date": {
               "en": "",
@@ -1159,7 +1332,11 @@
               "es": ""
             },
             "source": "WHO PQ EOI list (24th edition)",
-            "asOf": "2026-08-22"
+            "asOf": "2026-08-22",
+            "sources": [
+              "who-pq-eoi-malaria-24",
+              "who-pq-fpp"
+            ]
           },
           {
             "status": "idle",
@@ -1389,7 +1566,12 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "Novartis / MMV press releases; ClinicalTrials.gov NCT05842954"
+              "source": "Novartis / MMV press releases; ClinicalTrials.gov NCT05842954",
+              "sources": [
+                "novartis-kaluma",
+                "mmv-ganlum-phase3",
+                "ctgov-kaluma"
+              ]
             },
             {
               "milestone": {
@@ -1423,7 +1605,11 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "Novartis announcement, Nov 2025"
+              "source": "Novartis announcement, Nov 2025",
+              "sources": [
+                "novartis-kaluma",
+                "mmv-ganlum-phase3"
+              ]
             },
             {
               "milestone": {
@@ -1457,7 +1643,10 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": ""
+              "source": "",
+              "sources": [
+                "who-pado-malaria-2025"
+              ]
             },
             {
               "milestone": {
@@ -1491,7 +1680,10 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "WHO PQ EOI list (24th edition)"
+              "source": "WHO PQ EOI list (24th edition)",
+              "sources": [
+                "who-pq-eoi-malaria-24"
+              ]
             }
           ]
         }
@@ -1515,10 +1707,10 @@
           {
             "status": "prog",
             "note": {
-              "en": "Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT, successor to the DeTACT programme; first patient Sep 2025); dose-optimization published 2025; child-friendly dispersible formulation",
-              "fr": "Triple ACT à dose fixe co-formulée en phase III pivotale (FD-TACT, successeur du programme DeTACT ; premier patient en septembre 2025) ; optimisation de la dose publiée en 2025 ; formulation dispersible adaptée aux enfants",
-              "pt": "Formulação conjunta de dose fixa tripla ACT num estudo pivotal de Fase III (FD-TACT, sucessor do programa DeTACT; primeiro doente em setembro de 2025); otimização da dose publicada em 2025; formulação dispersível adequada para crianças.",
-              "es": "Triple ACT de dosis fija coformulado en fase III pivotal (FD-TACT, sucesor del programa DeTACT; primer paciente en septiembre de 2025); optimización de la dosis publicada en 2025; formulación dispersable apta para niños."
+              "en": "Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT; first patient Sep 2025); dose-optimization published 2025; child-friendly dispersible formulation",
+              "fr": "Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT; first patient Sep 2025); dose-optimization published 2025; child-friendly dispersible formulation",
+              "pt": "Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT; first patient Sep 2025); dose-optimization published 2025; child-friendly dispersible formulation",
+              "es": "Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT; first patient Sep 2025); dose-optimization published 2025; child-friendly dispersible formulation"
             },
             "date": {
               "en": "Phase III targeted completion 2025–26",
@@ -1539,7 +1731,13 @@
               "es": "TBC"
             },
             "source": "MORU / FD-TACT; Clin Pharmacol Ther 2025; WHO PADO malaria, Jun 2025",
-            "asOf": "2026-08-23"
+            "asOf": "2026-08-23",
+            "sources": [
+              "clinicaltrials-fd-tact",
+              "cpt-alaq-dose-2025",
+              "who-pado-malaria-2025",
+              "ghit-alaq-fdc"
+            ]
           },
           {
             "status": "idle",
@@ -1556,18 +1754,22 @@
               "es": ""
             },
             "next": {
-              "en": "SRA/WLA submission — partnership targets approval by ~2027",
-              "fr": "SRA/Soumission WLA — le partenariat vise une approbation d'ici 2027",
-              "pt": "SRA/Submissão da WLA — parceria visa aprovação até aproximadamente 2027",
-              "es": "SRA/Presentación de WLA: la asociación busca la aprobación para aproximadamente 2027."
+              "en": "Regulatory submission after Phase III results",
+              "fr": "Regulatory submission after Phase III results",
+              "pt": "Regulatory submission after Phase III results",
+              "es": "Regulatory submission after Phase III results"
             },
             "nextDate": {
-              "en": "~2027",
-              "fr": "~2027",
-              "pt": "~2027",
-              "es": "~2027"
+              "en": "TBC",
+              "fr": "TBC",
+              "pt": "TBC",
+              "es": "TBC"
             },
-            "source": "DeTACT partnership statements"
+            "source": "ClinicalTrials.gov NCT05951595; GHIT Fund project G2022-205",
+            "sources": [
+              "clinicaltrials-fd-tact",
+              "ghit-alaq-fdc"
+            ]
           },
           {
             "status": "idle",
@@ -1599,10 +1801,10 @@
           {
             "status": "idle",
             "note": {
-              "en": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, 27 Feb 2026, checked)",
-              "fr": "Non encore inclus dans la liste des manifestations d'intérêt de l'OMS PQ (24e manifestation d'intérêt sur le paludisme, 27 février 2026, vérifiée)",
-              "pt": "Ainda não incluído na lista de Manifestações de Interesse da OMS PQ (24ª Manifestação de Interesse sobre a malária, 27 de fevereiro de 2026, verificada)",
-              "es": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, 27 Feb 2026, checked)"
+              "en": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "fr": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "pt": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, updated 27 Feb 2026, checked)",
+              "es": "Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, updated 27 Feb 2026, checked)"
             },
             "date": {
               "en": "",
@@ -1611,19 +1813,24 @@
               "es": ""
             },
             "next": {
-              "en": "PQ targeted by ~2027 per partnership",
-              "fr": "PQ ciblé d'ici ~2027 par partenariat",
-              "pt": "PQ meta para ~2027 por parceria",
-              "es": "PQ objetivo para ~2027 por asociación"
+              "en": "WHO prequalification planned after Phase III",
+              "fr": "WHO prequalification planned after Phase III",
+              "pt": "WHO prequalification planned after Phase III",
+              "es": "WHO prequalification planned after Phase III"
             },
             "nextDate": {
-              "en": "~2027",
-              "fr": "~2027",
-              "pt": "~2027",
-              "es": "~2027"
+              "en": "TBC",
+              "fr": "TBC",
+              "pt": "TBC",
+              "es": "TBC"
             },
             "source": "WHO PADO malaria, Jun 2025; WHO PQ EOI list (24th edition)",
-            "asOf": "2026-08-22"
+            "asOf": "2026-08-22",
+            "sources": [
+              "who-pq-eoi-malaria-24",
+              "who-pado-malaria-2025",
+              "ghit-alaq-fdc"
+            ]
           },
           {
             "status": "idle",
@@ -1859,7 +2066,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "Clin Pharmacol Ther (2025)"
+              "source": "Clin Pharmacol Ther (2025)",
+              "sources": [
+                "cpt-alaq-dose-2025"
+              ]
             },
             {
               "milestone": {
@@ -1893,7 +2103,10 @@
                 "pt": "2026",
                 "es": "2026"
               },
-              "source": "MORU / FD-TACT"
+              "source": "MORU / FD-TACT",
+              "sources": [
+                "clinicaltrials-fd-tact"
+              ]
             },
             {
               "milestone": {
@@ -1922,10 +2135,10 @@
                 "es": "Preparación del expediente"
               },
               "anticipated": {
-                "en": "~2027",
-                "fr": "~2027",
-                "pt": "~2027",
-                "es": "~2027"
+                "en": "TBC",
+                "fr": "À confirmer",
+                "pt": "A confirmar",
+                "es": "Por confirmar"
               },
               "source": ""
             },
@@ -1956,12 +2169,16 @@
                 "es": "Listado de expresiones de interés y luego expediente"
               },
               "anticipated": {
-                "en": "~2027",
-                "fr": "~2027",
-                "pt": "~2027",
-                "es": "~2027"
+                "en": "TBC",
+                "fr": "À confirmer",
+                "pt": "A confirmar",
+                "es": "Por confirmar"
               },
-              "source": "WHO PADO malaria, Jun 2025"
+              "source": "WHO PADO malaria, Jun 2025",
+              "sources": [
+                "who-pq-eoi-malaria-24",
+                "who-pado-malaria-2025"
+              ]
             }
           ]
         }
@@ -2020,15 +2237,19 @@
               "es": ""
             },
             "source": "MMV",
-            "asOf": "2026-08-14"
+            "asOf": "2026-08-14",
+            "sources": [
+              "mmv-pyramax",
+              "mmv-pyramax-pregnancy"
+            ]
           },
           {
             "status": "done",
             "note": {
-              "en": "EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 to include treatment of pregnant women (EMA outcome 5 Jun 2025; announced 31 Jul 2025)",
-              "fr": "Avis scientifique positif de l’EMA (Article 58/EU-M4all, 16 février 2012) ; mise à jour de l’étiquetage en 2025 pour inclure le traitement des femmes enceintes (décision de l’EMA le 5 juin 2025 ; annoncée le 31 juillet 2025)",
-              "pt": "Parecer científico positivo da EMA (Artigo 58/EU-M4all, 16 de fevereiro de 2012); folheto informativo atualizado em 2025 para incluir o tratamento de mulheres grávidas (resultado da EMA a 5 de junho de 2025; anunciado a 31 de julho de 2025).",
-              "es": "Opinión científica positiva de la EMA (Artículo 58/EU-M4all, 16 de febrero de 2012); la etiqueta se actualizó en 2025 para incluir el tratamiento de mujeres embarazadas (resultado de la EMA, 5 de junio de 2025; anunciado el 31 de julio de 2025)."
+              "en": "EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 to include treatment of pregnant women (EMA outcome 5 Jun 2025; label changed 31 Jul 2025)",
+              "fr": "EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 to include treatment of pregnant women (EMA outcome 5 Jun 2025; label changed 31 Jul 2025)",
+              "pt": "EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 to include treatment of pregnant women (EMA outcome 5 Jun 2025; label changed 31 Jul 2025)",
+              "es": "EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 to include treatment of pregnant women (EMA outcome 5 Jun 2025; label changed 31 Jul 2025)"
             },
             "date": {
               "en": "2012 (label update 2025)",
@@ -2048,8 +2269,12 @@
               "pt": "",
               "es": ""
             },
-            "source": "EMA EU-M4all opinions table; MMV, 31 Jul 2025",
-            "asOf": "2026-08-22"
+            "source": "EMA EU-M4all opinions table; MMV, 20 Aug 2025",
+            "asOf": "2026-08-22",
+            "sources": [
+              "ema-pyramax",
+              "mmv-pyramax-pregnancy"
+            ]
           },
           {
             "status": "done",
@@ -2078,7 +2303,11 @@
               "es": ""
             },
             "source": "WHO Guidelines for malaria; MMV",
-            "asOf": "2026-08-14"
+            "asOf": "2026-08-14",
+            "sources": [
+              "who-guidelines",
+              "mmv-pyramax"
+            ]
           },
           {
             "status": "done",
@@ -2107,7 +2336,11 @@
               "es": ""
             },
             "source": "WHO PQ list of prequalified medicines (extract 22 Aug 2026)",
-            "asOf": "2026-08-22"
+            "asOf": "2026-08-22",
+            "sources": [
+              "who-pq-fpp",
+              "ema-pyramax"
+            ]
           },
           {
             "status": "prog",
@@ -2136,7 +2369,14 @@
               "es": "TBC"
             },
             "source": "NAFDAC, TMDA, Rwanda FDA, ZAMRA and DAV registers",
-            "asOf": "2026-10-05"
+            "asOf": "2026-10-05",
+            "sources": [
+              "nafdac",
+              "tmda",
+              "rwanda-fda",
+              "zamra",
+              "dav"
+            ]
           },
           {
             "status": "late",
@@ -2165,7 +2405,15 @@
               "es": "TBC"
             },
             "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers, including a Ghana therapeutic-efficacy study (see the country access map)",
-            "asOf": "2026-10-05"
+            "asOf": "2026-10-05",
+            "sources": [
+              "who-wmr-annex-4b",
+              "who-mft-guide",
+              "frontiers-ghana-tes",
+              "bmjgh-rwanda-mft",
+              "malariaj-burkina-mft",
+              "malariaj-kenya-mft"
+            ]
           },
           {
             "status": "prog",
@@ -2194,7 +2442,10 @@
               "es": "Q4 2026"
             },
             "source": "Global Fund PQR Transaction Summary (extract 23 Aug 2026)",
-            "asOf": "2026-08-23"
+            "asOf": "2026-08-23",
+            "sources": [
+              "global-fund-pqr"
+            ]
           },
           {
             "status": "idle",
@@ -2508,7 +2759,10 @@
                 "pct": 100
               }
             ],
-            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag."
+            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag.",
+            "sources": [
+              "global-fund-pqr"
+            ]
           },
           "milestones": [
             {
@@ -2543,7 +2797,11 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "EMA EU-M4all opinions table"
+              "source": "EMA EU-M4all opinions table",
+              "sources": [
+                "ema-pyramax",
+                "ema"
+              ]
             },
             {
               "milestone": {
@@ -2577,7 +2835,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO PQ list"
+              "source": "WHO PQ list",
+              "sources": [
+                "who-pq-fpp"
+              ]
             },
             {
               "milestone": {
@@ -2611,7 +2872,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO Guidelines for malaria"
+              "source": "WHO Guidelines for malaria",
+              "sources": [
+                "who-guidelines"
+              ]
             },
             {
               "milestone": {
@@ -2645,7 +2909,11 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "EMA EU-M4all opinions table; MMV, 31 Jul 2025"
+              "source": "EMA EU-M4all opinions table; MMV, 20 Aug 2025",
+              "sources": [
+                "ema-pyramax",
+                "mmv-pyramax-pregnancy"
+              ]
             },
             {
               "milestone": {
@@ -2679,7 +2947,14 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "NAFDAC, TMDA, Rwanda FDA, ZAMRA and DAV registers (5 Oct 2026)"
+              "source": "NAFDAC, TMDA, Rwanda FDA, ZAMRA and DAV registers (5 Oct 2026)",
+              "sources": [
+                "nafdac",
+                "tmda",
+                "rwanda-fda",
+                "zamra",
+                "dav"
+              ]
             },
             {
               "milestone": {
@@ -2713,7 +2988,15 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)"
+              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)",
+              "sources": [
+                "who-wmr-annex-4b",
+                "who-mft-guide",
+                "frontiers-ghana-tes",
+                "bmjgh-rwanda-mft",
+                "malariaj-burkina-mft",
+                "malariaj-kenya-mft"
+              ]
             },
             {
               "milestone": {
@@ -2747,7 +3030,10 @@
                 "pt": "Q4 2026",
                 "es": "Q4 2026"
               },
-              "source": "Global Fund PQR (extract 23 Aug 2026)"
+              "source": "Global Fund PQR (extract 23 Aug 2026)",
+              "sources": [
+                "global-fund-pqr"
+              ]
             }
           ]
         }
@@ -2806,7 +3092,10 @@
               "es": ""
             },
             "source": "MMV",
-            "asOf": "2026-08-14"
+            "asOf": "2026-08-14",
+            "sources": [
+              "mmv-dhappq"
+            ]
           },
           {
             "status": "done",
@@ -2835,7 +3124,10 @@
               "es": ""
             },
             "source": "EMA register",
-            "asOf": "2026-08-14"
+            "asOf": "2026-08-14",
+            "sources": [
+              "ema-eurartesim"
+            ]
           },
           {
             "status": "done",
@@ -2864,7 +3156,11 @@
               "es": ""
             },
             "source": "WHO Guidelines for the treatment of malaria, 2nd ed. (2010); WHO news, 10 Dec 2010",
-            "asOf": "2026-08-23"
+            "asOf": "2026-08-23",
+            "sources": [
+              "who-guidelines-2010",
+              "who-guidelines"
+            ]
           },
           {
             "status": "done",
@@ -2893,7 +3189,12 @@
               "es": ""
             },
             "source": "WHO PQ list of prequalified medicines (extract 22 Aug 2026)",
-            "asOf": "2026-08-22"
+            "asOf": "2026-08-22",
+            "sources": [
+              "who-pq-fpp",
+              "whopar-ma093",
+              "whopar-ma140"
+            ]
           },
           {
             "status": "done",
@@ -2922,7 +3223,15 @@
               "es": "TBC"
             },
             "source": "NAFDAC, Rwanda FDA, TMDA, DAV, ZAMRA and MCAZ registers (see the country access map); NAFDAC Greenbook + TMDA IMIS2 extracts 31 Aug 2026",
-            "asOf": "2026-10-05"
+            "asOf": "2026-10-05",
+            "sources": [
+              "nafdac",
+              "rwanda-fda",
+              "tmda",
+              "dav",
+              "zamra",
+              "mcaz"
+            ]
           },
           {
             "status": "prog",
@@ -2951,7 +3260,15 @@
               "es": "TBC"
             },
             "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)",
-            "asOf": "2026-10-05"
+            "asOf": "2026-10-05",
+            "sources": [
+              "who-wmr-annex-4b",
+              "who-mft-guide",
+              "frontiers-ghana-tes",
+              "bmjgh-rwanda-mft",
+              "malariaj-burkina-mft",
+              "malariaj-kenya-mft"
+            ]
           },
           {
             "status": "late",
@@ -2980,15 +3297,18 @@
               "es": "Q4 2026"
             },
             "source": "Global Fund PQR Transaction Summary (extract 23 Aug 2026)",
-            "asOf": "2026-08-23"
+            "asOf": "2026-08-23",
+            "sources": [
+              "global-fund-pqr"
+            ]
           },
           {
             "status": "prog",
             "note": {
-              "en": "Routine use and procurement vary substantially between countries",
-              "fr": "Routine use and procurement vary substantially between countries",
-              "pt": "Routine use and procurement vary substantially between countries",
-              "es": "Routine use and procurement vary substantially between countries"
+              "en": "National policy and Global Fund procurement vary substantially between countries",
+              "fr": "National policy and Global Fund procurement vary substantially between countries",
+              "pt": "National policy and Global Fund procurement vary substantially between countries",
+              "es": "National policy and Global Fund procurement vary substantially between countries"
             },
             "date": {
               "en": "",
@@ -3008,8 +3328,12 @@
               "pt": "",
               "es": ""
             },
-            "source": "LAUNCH assessment (draft)",
-            "asOf": "2026-08-14"
+            "source": "WHO World Malaria Report 2025, Annex 4B; Global Fund PQR Transaction Summary",
+            "asOf": "2026-08-14",
+            "sources": [
+              "global-fund-pqr",
+              "who-wmr-annex-4b"
+            ]
           }
         ],
         "detail": {
@@ -3304,7 +3628,10 @@
                 "pct": 100
               }
             ],
-            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag."
+            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag.",
+            "sources": [
+              "global-fund-pqr"
+            ]
           },
           "milestones": [
             {
@@ -3339,7 +3666,11 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO Guidelines for the treatment of malaria, 2nd ed. (2010)"
+              "source": "WHO Guidelines for the treatment of malaria, 2nd ed. (2010)",
+              "sources": [
+                "who-guidelines-2010",
+                "who-guidelines"
+              ]
             },
             {
               "milestone": {
@@ -3373,7 +3704,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "EMA register"
+              "source": "EMA register",
+              "sources": [
+                "ema-eurartesim"
+              ]
             },
             {
               "milestone": {
@@ -3407,7 +3741,11 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO PQ list"
+              "source": "WHO PQ list",
+              "sources": [
+                "who-pq-fpp",
+                "whopar-ma093"
+              ]
             },
             {
               "milestone": {
@@ -3441,7 +3779,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO PQ list"
+              "source": "WHO PQ list",
+              "sources": [
+                "whopar-ma093"
+              ]
             },
             {
               "milestone": {
@@ -3475,7 +3816,10 @@
                 "pt": "—",
                 "es": "—"
               },
-              "source": "WHO PQ list (extract 22 Aug 2026)"
+              "source": "WHO PQ list (extract 22 Aug 2026)",
+              "sources": [
+                "who-pq-fpp"
+              ]
             },
             {
               "milestone": {
@@ -3509,7 +3853,11 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "NAFDAC Greenbook; TMDA IMIS2"
+              "source": "NAFDAC Greenbook; TMDA IMIS2",
+              "sources": [
+                "nafdac",
+                "tmda"
+              ]
             },
             {
               "milestone": {
@@ -3543,7 +3891,15 @@
                 "pt": "A confirmar",
                 "es": "Por confirmar"
               },
-              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)"
+              "source": "WHO World Malaria Report 2025, Annex 4B (policy as of 2024); WHO MFT implementation guide; peer-reviewed papers (see the country access map)",
+              "sources": [
+                "who-wmr-annex-4b",
+                "who-mft-guide",
+                "frontiers-ghana-tes",
+                "bmjgh-rwanda-mft",
+                "malariaj-burkina-mft",
+                "malariaj-kenya-mft"
+              ]
             },
             {
               "milestone": {
@@ -3577,7 +3933,10 @@
                 "pt": "Q4 2026",
                 "es": "Q4 2026"
               },
-              "source": "Global Fund PQR (extract 23 Aug 2026)"
+              "source": "Global Fund PQR (extract 23 Aug 2026)",
+              "sources": [
+                "global-fund-pqr"
+              ]
             }
           ]
         }
@@ -5506,6 +5865,494 @@
           "es": "El registro nacional de todos los medicamentos autorizados para su venta en Zimbabue."
         },
         "collection": "automated"
+      },
+      {
+        "id": "mmv-ganlum-phase3",
+        "title": {
+          "en": "Phase 3 trial for next-generation malaria treatment GanLum meets primary endpoint, with potential to combat antimalarial resistance",
+          "fr": "Phase 3 trial for next-generation malaria treatment GanLum meets primary endpoint, with potential to combat antimalarial resistance",
+          "pt": "Phase 3 trial for next-generation malaria treatment GanLum meets primary endpoint, with potential to combat antimalarial resistance",
+          "es": "Phase 3 trial for next-generation malaria treatment GanLum meets primary endpoint, with potential to combat antimalarial resistance"
+        },
+        "label": {
+          "en": "MMV: GanLum Phase III results, 2025",
+          "fr": "MMV: GanLum Phase III results, 2025",
+          "pt": "MMV: GanLum Phase III results, 2025",
+          "es": "MMV: GanLum Phase III results, 2025"
+        },
+        "org": "Medicines for Malaria Venture",
+        "category": "Clinical trial results",
+        "group": "document",
+        "url": "https://www.mmv.org/newsroom/news-resources-search/phase-3-trial-next-generation-malaria-treatment-ganaplacide-lumefantrine",
+        "year": "2025",
+        "products": [
+          "ganlum"
+        ],
+        "plain": {
+          "en": "MMV's joint announcement with Novartis of GanLum's Phase III results.",
+          "fr": "MMV's joint announcement with Novartis of GanLum's Phase III results.",
+          "pt": "MMV's joint announcement with Novartis of GanLum's Phase III results.",
+          "es": "MMV's joint announcement with Novartis of GanLum's Phase III results."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "ctgov-kaluma",
+        "title": {
+          "en": "Efficacy, Safety and Tolerability of KLU156 in Adults and Children With Uncomplicated P. Falciparum Malaria (KALUMA, NCT05842954)",
+          "fr": "Efficacy, Safety and Tolerability of KLU156 in Adults and Children With Uncomplicated P. Falciparum Malaria (KALUMA, NCT05842954)",
+          "pt": "Efficacy, Safety and Tolerability of KLU156 in Adults and Children With Uncomplicated P. Falciparum Malaria (KALUMA, NCT05842954)",
+          "es": "Efficacy, Safety and Tolerability of KLU156 in Adults and Children With Uncomplicated P. Falciparum Malaria (KALUMA, NCT05842954)"
+        },
+        "label": {
+          "en": "ClinicalTrials.gov: KALUMA trial",
+          "fr": "ClinicalTrials.gov: KALUMA trial",
+          "pt": "ClinicalTrials.gov: KALUMA trial",
+          "es": "ClinicalTrials.gov: KALUMA trial"
+        },
+        "org": "US National Library of Medicine",
+        "category": "Clinical evidence",
+        "group": "document",
+        "url": "https://clinicaltrials.gov/study/NCT05842954",
+        "year": "Registered 2023; completed 2025",
+        "products": [
+          "ganlum"
+        ],
+        "plain": {
+          "en": "The official trial record for GanLum's Phase III study: size, sites, and when it finished.",
+          "fr": "The official trial record for GanLum's Phase III study: size, sites, and when it finished.",
+          "pt": "The official trial record for GanLum's Phase III study: size, sites, and when it finished.",
+          "es": "The official trial record for GanLum's Phase III study: size, sites, and when it finished."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "who-pq-eoi-malaria-24",
+        "title": {
+          "en": "24th Invitation to Manufacturers of Antimalarial Medicines to Submit an Expression of Interest (EOI) for Product Evaluation to the WHO Prequalification Unit (PQT)",
+          "fr": "24th Invitation to Manufacturers of Antimalarial Medicines to Submit an Expression of Interest (EOI) for Product Evaluation to the WHO Prequalification Unit (PQT)",
+          "pt": "24th Invitation to Manufacturers of Antimalarial Medicines to Submit an Expression of Interest (EOI) for Product Evaluation to the WHO Prequalification Unit (PQT)",
+          "es": "24th Invitation to Manufacturers of Antimalarial Medicines to Submit an Expression of Interest (EOI) for Product Evaluation to the WHO Prequalification Unit (PQT)"
+        },
+        "label": {
+          "en": "WHO PQ: 24th malaria EOI invitation, 2025",
+          "fr": "WHO PQ: 24th malaria EOI invitation, 2025",
+          "pt": "WHO PQ: 24th malaria EOI invitation, 2025",
+          "es": "WHO PQ: 24th malaria EOI invitation, 2025"
+        },
+        "org": "WHO Prequalification Unit",
+        "category": "Regulatory / quality",
+        "group": "document",
+        "url": "https://extranet.who.int/prequal/news/24th-invitation-manufacturers-antimalarial-medicines-submit-expression-interest-eoi-product",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The invitation itself (PDF)",
+              "fr": "The invitation itself (PDF)",
+              "pt": "The invitation itself (PDF)",
+              "es": "The invitation itself (PDF)"
+            },
+            "url": "https://extranet.who.int/prequal/sites/default/files/document_files/EOI-MalariaV24_2.pdf"
+          }
+        ],
+        "year": "2025 (updated 27 February 2026)",
+        "products": [
+          "ganlum",
+          "alaq"
+        ],
+        "plain": {
+          "en": "The list of malaria medicines WHO currently invites manufacturers to submit for prequalification.",
+          "fr": "The list of malaria medicines WHO currently invites manufacturers to submit for prequalification.",
+          "pt": "The list of malaria medicines WHO currently invites manufacturers to submit for prequalification.",
+          "es": "The list of malaria medicines WHO currently invites manufacturers to submit for prequalification."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "clinicaltrials-fd-tact",
+        "title": {
+          "en": "An open-label, randomised, controlled, non-inferiority trial of a fixed-dose triple artemisinin-based combination (artemether-lumefantrine-amodiaquine) versus first-line ACTs for uncomplicated P. falciparum malaria (FD-TACT, NCT05951595)",
+          "fr": "An open-label, randomised, controlled, non-inferiority trial of a fixed-dose triple artemisinin-based combination (artemether-lumefantrine-amodiaquine) versus first-line ACTs for uncomplicated P. falciparum malaria (FD-TACT, NCT05951595)",
+          "pt": "An open-label, randomised, controlled, non-inferiority trial of a fixed-dose triple artemisinin-based combination (artemether-lumefantrine-amodiaquine) versus first-line ACTs for uncomplicated P. falciparum malaria (FD-TACT, NCT05951595)",
+          "es": "An open-label, randomised, controlled, non-inferiority trial of a fixed-dose triple artemisinin-based combination (artemether-lumefantrine-amodiaquine) versus first-line ACTs for uncomplicated P. falciparum malaria (FD-TACT, NCT05951595)"
+        },
+        "label": {
+          "en": "ClinicalTrials.gov: FD-TACT trial",
+          "fr": "ClinicalTrials.gov: FD-TACT trial",
+          "pt": "ClinicalTrials.gov: FD-TACT trial",
+          "es": "ClinicalTrials.gov: FD-TACT trial"
+        },
+        "org": "US National Library of Medicine",
+        "category": "Clinical evidence",
+        "group": "document",
+        "url": "https://clinicaltrials.gov/study/NCT05951595",
+        "year": "Registered 2023; recruiting",
+        "products": [
+          "alaq"
+        ],
+        "plain": {
+          "en": "The official trial record for the Phase III study of the single-tablet ALAQ.",
+          "fr": "The official trial record for the Phase III study of the single-tablet ALAQ.",
+          "pt": "The official trial record for the Phase III study of the single-tablet ALAQ.",
+          "es": "The official trial record for the Phase III study of the single-tablet ALAQ."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "cpt-alaq-dose-2025",
+        "title": {
+          "en": "Dose-Optimization of a Novel Co-Formulated Triple Combination Antimalarial Therapy: Artemether-Lumefantrine-Amodiaquine",
+          "fr": "Dose-Optimization of a Novel Co-Formulated Triple Combination Antimalarial Therapy: Artemether-Lumefantrine-Amodiaquine",
+          "pt": "Dose-Optimization of a Novel Co-Formulated Triple Combination Antimalarial Therapy: Artemether-Lumefantrine-Amodiaquine",
+          "es": "Dose-Optimization of a Novel Co-Formulated Triple Combination Antimalarial Therapy: Artemether-Lumefantrine-Amodiaquine"
+        },
+        "label": {
+          "en": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+          "fr": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+          "pt": "Clin Pharmacol Ther: ALAQ dosing, 2025",
+          "es": "Clin Pharmacol Ther: ALAQ dosing, 2025"
+        },
+        "org": "Clinical Pharmacology & Therapeutics",
+        "category": "Clinical evidence",
+        "group": "document",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11993281/",
+        "year": "2025",
+        "products": [
+          "alaq"
+        ],
+        "plain": {
+          "en": "A modelling study that set the doses for the single-tablet ALAQ across body-weight bands.",
+          "fr": "A modelling study that set the doses for the single-tablet ALAQ across body-weight bands.",
+          "pt": "A modelling study that set the doses for the single-tablet ALAQ across body-weight bands.",
+          "es": "A modelling study that set the doses for the single-tablet ALAQ across body-weight bands."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "who-pado-malaria-2025",
+        "title": {
+          "en": "Paediatric drug optimization for malaria: meeting report, 24-26 June 2025",
+          "fr": "Paediatric drug optimization for malaria: meeting report, 24-26 June 2025",
+          "pt": "Paediatric drug optimization for malaria: meeting report, 24-26 June 2025",
+          "es": "Paediatric drug optimization for malaria: meeting report, 24-26 June 2025"
+        },
+        "label": {
+          "en": "WHO: child malaria medicine priorities, 2025",
+          "fr": "WHO: child malaria medicine priorities, 2025",
+          "pt": "WHO: child malaria medicine priorities, 2025",
+          "es": "WHO: child malaria medicine priorities, 2025"
+        },
+        "org": "World Health Organization (GAP-f)",
+        "category": "Policy / guidelines",
+        "group": "document",
+        "url": "https://www.who.int/publications/i/item/9789240116986",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The report itself (PDF)",
+              "fr": "The report itself (PDF)",
+              "pt": "The report itself (PDF)",
+              "es": "The report itself (PDF)"
+            },
+            "url": "https://iris.who.int/server/api/core/bitstreams/c5b0a596-42dd-47c0-812c-3788274ccee2/content"
+          }
+        ],
+        "year": "2025",
+        "products": [
+          "alaq",
+          "ganlum"
+        ],
+        "plain": {
+          "en": "WHO's list of child-friendly malaria medicines that most need developing, from a June 2025 meeting.",
+          "fr": "WHO's list of child-friendly malaria medicines that most need developing, from a June 2025 meeting.",
+          "pt": "WHO's list of child-friendly malaria medicines that most need developing, from a June 2025 meeting.",
+          "es": "WHO's list of child-friendly malaria medicines that most need developing, from a June 2025 meeting."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "ghit-alaq-fdc",
+        "title": {
+          "en": "Evaluation and preparation for deployment of an Artemether-Lumefantrine-Amodiaquine Fixed-Dose Combination to counter antimalarial drug resistance in Plasmodium falciparum malaria (G2022-205)",
+          "fr": "Evaluation and preparation for deployment of an Artemether-Lumefantrine-Amodiaquine Fixed-Dose Combination to counter antimalarial drug resistance in Plasmodium falciparum malaria (G2022-205)",
+          "pt": "Evaluation and preparation for deployment of an Artemether-Lumefantrine-Amodiaquine Fixed-Dose Combination to counter antimalarial drug resistance in Plasmodium falciparum malaria (G2022-205)",
+          "es": "Evaluation and preparation for deployment of an Artemether-Lumefantrine-Amodiaquine Fixed-Dose Combination to counter antimalarial drug resistance in Plasmodium falciparum malaria (G2022-205)"
+        },
+        "label": {
+          "en": "GHIT Fund: ALAQ Phase III project",
+          "fr": "GHIT Fund: ALAQ Phase III project",
+          "pt": "GHIT Fund: ALAQ Phase III project",
+          "es": "GHIT Fund: ALAQ Phase III project"
+        },
+        "org": "Global Health Innovative Technology Fund",
+        "category": "R&D pipeline",
+        "group": "document",
+        "url": "https://www.ghitfund.org/investment/portfoliodetail/detail/215/en",
+        "year": "2023 award; current",
+        "products": [
+          "alaq"
+        ],
+        "plain": {
+          "en": "The funder's description of the ALAQ Phase III project: partners, aims and planned route to WHO.",
+          "fr": "The funder's description of the ALAQ Phase III project: partners, aims and planned route to WHO.",
+          "pt": "The funder's description of the ALAQ Phase III project: partners, aims and planned route to WHO.",
+          "es": "The funder's description of the ALAQ Phase III project: partners, aims and planned route to WHO."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "mmv-pyramax",
+        "title": {
+          "en": "MMV portfolio: Pyronaridine-artesunate (Pyramax)",
+          "fr": "MMV portfolio: Pyronaridine-artesunate (Pyramax)",
+          "pt": "MMV portfolio: Pyronaridine-artesunate (Pyramax)",
+          "es": "MMV portfolio: Pyronaridine-artesunate (Pyramax)"
+        },
+        "label": {
+          "en": "MMV: Pyramax (ASPY) product page",
+          "fr": "MMV: Pyramax (ASPY) product page",
+          "pt": "MMV: Pyramax (ASPY) product page",
+          "es": "MMV: Pyramax (ASPY) product page"
+        },
+        "org": "Medicines for Malaria Venture",
+        "category": "R&D pipeline",
+        "group": "document",
+        "url": "https://www.mmv.org/mmv-pipeline-antimalarial-drugs/pyronaridine-artesunate",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The granules for children",
+              "fr": "The granules for children",
+              "pt": "The granules for children",
+              "es": "The granules for children"
+            },
+            "url": "https://www.mmv.org/mmv-pipeline-antimalarial-drugs/pyronaridine-artesunate-granules"
+          }
+        ],
+        "year": "Rolling",
+        "products": [
+          "pyramax"
+        ],
+        "plain": {
+          "en": "MMV's page for Pyramax: approved, who makes it, and where it stands on WHO lists.",
+          "fr": "MMV's page for Pyramax: approved, who makes it, and where it stands on WHO lists.",
+          "pt": "MMV's page for Pyramax: approved, who makes it, and where it stands on WHO lists.",
+          "es": "MMV's page for Pyramax: approved, who makes it, and where it stands on WHO lists."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "mmv-pyramax-pregnancy",
+        "title": {
+          "en": "Pyramax label update: now includes information for the treatment of pregnant women with malaria",
+          "fr": "Pyramax label update: now includes information for the treatment of pregnant women with malaria",
+          "pt": "Pyramax label update: now includes information for the treatment of pregnant women with malaria",
+          "es": "Pyramax label update: now includes information for the treatment of pregnant women with malaria"
+        },
+        "label": {
+          "en": "MMV: Pyramax pregnancy label update, 2025",
+          "fr": "MMV: Pyramax pregnancy label update, 2025",
+          "pt": "MMV: Pyramax pregnancy label update, 2025",
+          "es": "MMV: Pyramax pregnancy label update, 2025"
+        },
+        "org": "Medicines for Malaria Venture",
+        "category": "Regulatory / quality",
+        "group": "document",
+        "url": "https://www.mmv.org/news-resources-search/pyramaxr-label-update-now-includes-information-treatment-pregnant-women",
+        "year": "2025",
+        "products": [
+          "pyramax"
+        ],
+        "plain": {
+          "en": "MMV's news that Europe's regulator updated Pyramax's label for use in pregnancy.",
+          "fr": "MMV's news that Europe's regulator updated Pyramax's label for use in pregnancy.",
+          "pt": "MMV's news that Europe's regulator updated Pyramax's label for use in pregnancy.",
+          "es": "MMV's news that Europe's regulator updated Pyramax's label for use in pregnancy."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "mmv-dhappq",
+        "title": {
+          "en": "MMV portfolio: Dihydroartemisinin-piperaquine (Eurartesim)",
+          "fr": "MMV portfolio: Dihydroartemisinin-piperaquine (Eurartesim)",
+          "pt": "MMV portfolio: Dihydroartemisinin-piperaquine (Eurartesim)",
+          "es": "MMV portfolio: Dihydroartemisinin-piperaquine (Eurartesim)"
+        },
+        "label": {
+          "en": "MMV: Eurartesim (DHA–PPQ) product page",
+          "fr": "MMV: Eurartesim (DHA–PPQ) product page",
+          "pt": "MMV: Eurartesim (DHA–PPQ) product page",
+          "es": "MMV: Eurartesim (DHA–PPQ) product page"
+        },
+        "org": "Medicines for Malaria Venture",
+        "category": "R&D pipeline",
+        "group": "document",
+        "url": "https://www.mmv.org/mmv-pipeline-antimalarial-drugs/dihydroartemisinin-piperaquine",
+        "year": "Rolling",
+        "products": [
+          "dhappq"
+        ],
+        "plain": {
+          "en": "MMV's page for Eurartesim: approved, who makes it, and its approvals so far.",
+          "fr": "MMV's page for Eurartesim: approved, who makes it, and its approvals so far.",
+          "pt": "MMV's page for Eurartesim: approved, who makes it, and its approvals so far.",
+          "es": "MMV's page for Eurartesim: approved, who makes it, and its approvals so far."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "ema-pyramax",
+        "title": {
+          "en": "Pyramax - opinion on medicine for use outside EU",
+          "fr": "Pyramax - opinion on medicine for use outside EU",
+          "pt": "Pyramax - opinion on medicine for use outside EU",
+          "es": "Pyramax - opinion on medicine for use outside EU"
+        },
+        "label": {
+          "en": "EMA: Pyramax opinion, 2012",
+          "fr": "EMA: Pyramax opinion, 2012",
+          "pt": "EMA: Pyramax opinion, 2012",
+          "es": "EMA: Pyramax opinion, 2012"
+        },
+        "org": "European Medicines Agency",
+        "category": "Regulatory / quality",
+        "group": "document",
+        "url": "https://www.ema.europa.eu/en/opinion-medicine-use-outside-EU/human/pyramax",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "Steps taken since the opinion (PDF)",
+              "fr": "Steps taken since the opinion (PDF)",
+              "pt": "Steps taken since the opinion (PDF)",
+              "es": "Steps taken since the opinion (PDF)"
+            },
+            "url": "https://www.ema.europa.eu/en/documents/outside-eu-steps-after/pyramax-procedural-steps-taken-scientific-information-after-opinion_en.pdf"
+          }
+        ],
+        "year": "2012 (updated 2025)",
+        "products": [
+          "pyramax"
+        ],
+        "plain": {
+          "en": "Europe's regulator's positive opinion on Pyramax for use outside Europe, with later label changes.",
+          "fr": "Europe's regulator's positive opinion on Pyramax for use outside Europe, with later label changes.",
+          "pt": "Europe's regulator's positive opinion on Pyramax for use outside Europe, with later label changes.",
+          "es": "Europe's regulator's positive opinion on Pyramax for use outside Europe, with later label changes."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "ema-eurartesim",
+        "title": {
+          "en": "Eurartesim: EPAR",
+          "fr": "Eurartesim: EPAR",
+          "pt": "Eurartesim: EPAR",
+          "es": "Eurartesim: EPAR"
+        },
+        "label": {
+          "en": "EMA: Eurartesim authorisation, 2011",
+          "fr": "EMA: Eurartesim authorisation, 2011",
+          "pt": "EMA: Eurartesim authorisation, 2011",
+          "es": "EMA: Eurartesim authorisation, 2011"
+        },
+        "org": "European Medicines Agency",
+        "category": "Regulatory / quality",
+        "group": "document",
+        "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eurartesim",
+        "year": "2011",
+        "products": [
+          "dhappq"
+        ],
+        "plain": {
+          "en": "Europe's approval record for Eurartesim, the first stringent-authority approval of DHA–PPQ.",
+          "fr": "Europe's approval record for Eurartesim, the first stringent-authority approval of DHA–PPQ.",
+          "pt": "Europe's approval record for Eurartesim, the first stringent-authority approval of DHA–PPQ.",
+          "es": "Europe's approval record for Eurartesim, the first stringent-authority approval of DHA–PPQ."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "who-guidelines-2010",
+        "title": {
+          "en": "Guidelines for the treatment of malaria, 2nd edition",
+          "fr": "Guidelines for the treatment of malaria, 2nd edition",
+          "pt": "Guidelines for the treatment of malaria, 2nd edition",
+          "es": "Guidelines for the treatment of malaria, 2nd edition"
+        },
+        "label": {
+          "en": "WHO malaria treatment guidelines, 2010",
+          "fr": "WHO malaria treatment guidelines, 2010",
+          "pt": "WHO malaria treatment guidelines, 2010",
+          "es": "WHO malaria treatment guidelines, 2010"
+        },
+        "org": "World Health Organization",
+        "category": "Policy / guidelines",
+        "group": "document",
+        "url": "https://iris.who.int/handle/10665/44227",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The guidelines (PDF)",
+              "fr": "The guidelines (PDF)",
+              "pt": "The guidelines (PDF)",
+              "es": "The guidelines (PDF)"
+            },
+            "url": "https://iris.who.int/server/api/core/bitstreams/a1df1e07-c356-49a0-85eb-8a27a9b0a549/content"
+          }
+        ],
+        "year": "2010",
+        "products": [
+          "dhappq"
+        ],
+        "plain": {
+          "en": "WHO's 2010 treatment guidelines, which first recommended DHA–PPQ.",
+          "fr": "WHO's 2010 treatment guidelines, which first recommended DHA–PPQ.",
+          "pt": "WHO's 2010 treatment guidelines, which first recommended DHA–PPQ.",
+          "es": "WHO's 2010 treatment guidelines, which first recommended DHA–PPQ."
+        },
+        "collection": "static"
+      },
+      {
+        "id": "whopar-ma093",
+        "title": {
+          "en": "WHOPAR: Eurartesim (dihydroartemisinin/piperaquine) 20mg/160mg tablets (Alfasigma), MA093 Part 7",
+          "fr": "WHOPAR: Eurartesim (dihydroartemisinin/piperaquine) 20mg/160mg tablets (Alfasigma), MA093 Part 7",
+          "pt": "WHOPAR: Eurartesim (dihydroartemisinin/piperaquine) 20mg/160mg tablets (Alfasigma), MA093 Part 7",
+          "es": "WHOPAR: Eurartesim (dihydroartemisinin/piperaquine) 20mg/160mg tablets (Alfasigma), MA093 Part 7"
+        },
+        "label": {
+          "en": "WHO assessment report: Eurartesim",
+          "fr": "WHO assessment report: Eurartesim",
+          "pt": "WHO assessment report: Eurartesim",
+          "es": "WHO assessment report: Eurartesim"
+        },
+        "org": "WHO Prequalification Unit",
+        "category": "Regulatory / quality",
+        "group": "document",
+        "url": "https://extranet.who.int/prequal/sites/default/files/whopar_files/MA093%20part7v3.pdf",
+        "alsoSee": [
+          {
+            "label": {
+              "en": "The same for the 40/320 mg tablet (MA094)",
+              "fr": "The same for the 40/320 mg tablet (MA094)",
+              "pt": "The same for the 40/320 mg tablet (MA094)",
+              "es": "The same for the 40/320 mg tablet (MA094)"
+            },
+            "url": "https://extranet.who.int/prequal/sites/default/files/whopar_files/ma094-part7v3.pdf"
+          }
+        ],
+        "year": "2025",
+        "products": [
+          "dhappq"
+        ],
+        "plain": {
+          "en": "WHO's record of when Eurartesim was prequalified and when it passed its re-check.",
+          "fr": "WHO's record of when Eurartesim was prequalified and when it passed its re-check.",
+          "pt": "WHO's record of when Eurartesim was prequalified and when it passed its re-check.",
+          "es": "WHO's record of when Eurartesim was prequalified and when it passed its re-check."
+        },
+        "collection": "static"
       }
     ]
   }

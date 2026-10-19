@@ -2,6 +2,52 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-19T06-05-03Z
+
+76 changes for RBM's readers (published by @codebyjackson: Citations on individual claims and 14 verified references (15 Oct feedback, #117)):
+
+- added `changelog`: 2026-10-19 · Each stage and milestone now links to the public source behind it, and we added 14 references to the Sources list. We removed ALAQ's target dates for approval and WHO prequalification, which no public source confirms, and corrected a few details to match the sources. No statuses changed.
+- `products[ganlum].stages[0].note`: Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; re… → Phase III (KALUMA, NCT05842954) met primary endpoint: 97.4% PCR-corrected cure rate; re…
+- `products[ganlum].stages[0].sources`: — → ["novartis-kaluma","mmv-ganlum-phase3","ctgov-kaluma"]
+- `products[ganlum].stages[1].sources`: — → ["novartis-kaluma","mmv-ganlum-phase3"]
+- `products[ganlum].stages[3].note`: Not on the WHO PQ EOI list yet (24th malaria EOI, 27 Feb 2026, checked) → Not on the WHO PQ EOI list yet (24th malaria EOI, updated 27 Feb 2026, checked)
+- `products[ganlum].stages[3].sources`: — → ["who-pq-eoi-malaria-24","who-pq-fpp"]
+- `products[ganlum].detail.milestones[0].sources`: — → ["novartis-kaluma","mmv-ganlum-phase3","ctgov-kaluma"]
+- `products[ganlum].detail.milestones[1].sources`: — → ["novartis-kaluma","mmv-ganlum-phase3"]
+- `products[ganlum].detail.milestones[2].sources`: — → ["who-pado-malaria-2025"]
+- `products[ganlum].detail.milestones[3].sources`: — → ["who-pq-eoi-malaria-24"]
+- `products[alaq].stages[0].note`: Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT, successor to the DeT… → Co-formulated fixed-dose triple ACT in pivotal Phase III (FD-TACT; first patient Sep 20…
+- `products[alaq].stages[0].sources`: — → ["clinicaltrials-fd-tact","cpt-alaq-dose-2025","who-pado-malaria-2025","ghit-alaq-fdc"]
+- `products[alaq].stages[1].next`: SRA/WLA submission — partnership targets approval by ~2027 → Regulatory submission after Phase III results
+- `products[alaq].stages[1].nextDate`: ~2027 → TBC
+- `products[alaq].stages[1].source`: DeTACT partnership statements → ClinicalTrials.gov NCT05951595; GHIT Fund project G2022-205
+- `products[alaq].stages[1].sources`: — → ["clinicaltrials-fd-tact","ghit-alaq-fdc"]
+- `products[alaq].stages[3].note`: Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, 27 Feb 2026, … → Not yet included in WHO PQ Expression of Interest list (24th malaria EOI, updated 27 Fe…
+- `products[alaq].stages[3].next`: PQ targeted by ~2027 per partnership → WHO prequalification planned after Phase III
+- `products[alaq].stages[3].nextDate`: ~2027 → TBC
+- `products[alaq].stages[3].sources`: — → ["who-pq-eoi-malaria-24","who-pado-malaria-2025","ghit-alaq-fdc"]
+- `products[alaq].detail.milestones[0].sources`: — → ["cpt-alaq-dose-2025"]
+- `products[alaq].detail.milestones[1].sources`: — → ["clinicaltrials-fd-tact"]
+- `products[alaq].detail.milestones[2].anticipated`: ~2027 → TBC
+- `products[alaq].detail.milestones[3].anticipated`: ~2027 → TBC
+- `products[alaq].detail.milestones[3].sources`: — → ["who-pq-eoi-malaria-24","who-pado-malaria-2025"]
+- `products[pyramax].stages[0].sources`: — → ["mmv-pyramax","mmv-pyramax-pregnancy"]
+- `products[pyramax].stages[1].note`: EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 … → EMA positive scientific opinion (Article 58/EU-M4all, 16 Feb 2012); label updated 2025 …
+- `products[pyramax].stages[1].source`: EMA EU-M4all opinions table; MMV, 31 Jul 2025 → EMA EU-M4all opinions table; MMV, 20 Aug 2025
+- `products[pyramax].stages[1].sources`: — → ["ema-pyramax","mmv-pyramax-pregnancy"]
+- `products[pyramax].stages[2].sources`: — → ["who-guidelines","mmv-pyramax"]
+- `products[pyramax].stages[3].sources`: — → ["who-pq-fpp","ema-pyramax"]
+- `products[pyramax].stages[4].sources`: — → ["nafdac","tmda","rwanda-fda","zamra","dav"]
+- `products[pyramax].stages[5].sources`: — → ["who-wmr-annex-4b","who-mft-guide","frontiers-ghana-tes","bmjgh-rwanda-mft","malariaj-…
+- `products[pyramax].stages[6].sources`: — → ["global-fund-pqr"]
+- `products[pyramax].detail.volume.sources`: — → ["global-fund-pqr"]
+- `products[pyramax].detail.milestones[0].sources`: — → ["ema-pyramax","ema"]
+- `products[pyramax].detail.milestones[1].sources`: — → ["who-pq-fpp"]
+- `products[pyramax].detail.milestones[2].sources`: — → ["who-guidelines"]
+- `products[pyramax].detail.milestones[3].source`: EMA EU-M4all opinions table; MMV, 31 Jul 2025 → EMA EU-M4all opinions table; MMV, 20 Aug 2025
+- `products[pyramax].detail.milestones[3].sources`: — → ["ema-pyramax","mmv-pyramax-pregnancy"]
+- … and 36 more
+
 ## 2026-10-15T15-09-20Z
 
 58 changes for RBM's readers (published by @codebyjackson: Partner feedback 15 Oct (PRs #107-#110, #112); fr/pt/es translations pending the Google key):
