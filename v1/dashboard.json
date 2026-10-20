@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T09:34:25.269Z",
-  "approved_at": "2026-10-20T09:34:25.269Z",
+  "generated_at": "2026-10-20T09:43:27.780Z",
+  "approved_at": "2026-10-20T09:43:27.781Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Google translation restored: fr/pt/es 100%"
+    "reason": "Acknowledgement card translated (fr/pt/es)"
   },
-  "pipeline_commit": "31db41ba65e67205fcf560db7088876ae1fc6f76",
-  "content_hash": "b880414a02f7b7d51d5142cbdfe829fd7c5dbac0e2796b5b85ae137042cad30b",
+  "pipeline_commit": "c6cc5365aca84bb1a4b9a23dc0ddbbeb60278485",
+  "content_hash": "7ff426d187e02fbb4be80e2cf63751b8e0ea86078712cd391cbf1adbe16b3e01",
   "locales": [
     "en",
     "fr",
@@ -1239,7 +1239,12 @@
         "name": "GanLum",
         "inn": "Ganaplacide–lumefantrine (KLU156)",
         "manufacturer": "Novartis",
-        "acknowledgement": "Developed by Novartis with the scientific and financial support of MMV, and within the framework of the WANECAM2 consortium, funded by the European & Developing Countries Clinical Trials Partnership Programme supported by the European Union, with co-funding from the German Aerospace Center and the UK Department of Health and Social Care.",
+        "acknowledgement": {
+          "en": "Developed by Novartis with the scientific and financial support of MMV, and within the framework of the WANECAM2 consortium, funded by the European & Developing Countries Clinical Trials Partnership Programme supported by the European Union, with co-funding from the German Aerospace Center and the UK Department of Health and Social Care.",
+          "fr": "Développé par Novartis avec le soutien scientifique et financier de MMV, et dans le cadre du consortium WANECAM2, financé par le programme de partenariat pour les essais cliniques entre l'Europe et les pays en développement, soutenu par l'Union européenne, avec un cofinancement du Centre aérospatial allemand et du ministère britannique de la Santé et des Affaires sociales.",
+          "pt": "Desenvolvido pela Novartis com o apoio científico e financeiro da MMV, e no âmbito do consórcio WANECAM2, financiado pelo Programa de Parceria para Ensaios Clínicos entre Países Europeus e em Desenvolvimento, apoiado pela União Europeia, com cofinanciamento do Centro Aeroespacial Alemão e do Departamento de Saúde e Assistência Social do Reino Unido.",
+          "es": "Desarrollado por Novartis con el apoyo científico y financiero de MMV, y en el marco del consorcio WANECAM2, financiado por el Programa de Asociación para Ensayos Clínicos en Países Europeos y en Desarrollo, con el apoyo de la Unión Europea y la cofinanciación del Centro Aeroespacial Alemán y el Departamento de Salud y Asistencia Social del Reino Unido."
+        },
         "class": "pipeline",
         "classLabel": {
           "en": "Pipeline · new chemical class",

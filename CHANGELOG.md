@@ -2,6 +2,12 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-20T09-43-27Z
+
+1 change for RBM's readers (published by @codebyjackson: Acknowledgement card translated (fr/pt/es)):
+
+- `products[ganlum].acknowledgement`: Developed by Novartis with the scientific and financial support of MMV, and within the … → Developed by Novartis with the scientific and financial support of MMV, and within the …
+
 ## 2026-10-20T09-34-25Z
 
 409 changes for RBM's readers (published by @codebyjackson: Google translation restored: fr/pt/es 100%):
