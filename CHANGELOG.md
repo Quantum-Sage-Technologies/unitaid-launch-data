@@ -2,6 +2,12 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-27T08-38-13Z
+
+1 change for RBM's readers (published by @codebyjackson: Spanish removed: RBM's platform does not support it):
+
+- language removed: `es`
+
 ## 2026-10-20T09-43-27Z
 
 1 change for RBM's readers (published by @codebyjackson: Acknowledgement card translated (fr/pt/es)):
