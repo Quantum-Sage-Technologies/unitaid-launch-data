@@ -2,6 +2,12 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-10-28T14-57-39Z
+
+No change for RBM's readers (published by @codebyjackson: One file per language for the React version (dashboard.en/fr/pt.json)): the data is identical to what is published.
+
+First publish of one file per language: `v1/dashboard.en.json`, `v1/dashboard.fr.json`, `v1/dashboard.pt.json`, with their contract `v1/schema.lang.json`.
+
 ## 2026-10-27T08-38-13Z
 
 1 change for RBM's readers (published by @codebyjackson: Spanish removed: RBM's platform does not support it):
