@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T14:57:39.032Z",
-  "approved_at": "2026-10-28T14:57:39.033Z",
+  "generated_at": "2026-10-28T16:27:03.257Z",
+  "approved_at": "2026-10-28T16:27:03.257Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "One file per language for the React version (dashboard.en/fr/pt.json)"
+    "reason": "Portuguese is now Brazilian (pt-BR), as RBM's site"
   },
-  "pipeline_commit": "4d4625d7306ef1afed68d8d1de1cafa2a89dfdbe",
+  "pipeline_commit": "11681f2c5ed00e0882981964f5a59657610e9504",
   "content_hash": "e200dc0c1ab440f99bcc88210b3eeb8ff445d87a7fec91e5ba46c7c434c54159",
   "locale": "en",
   "data_status": "draft",
