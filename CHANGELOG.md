@@ -2,6 +2,52 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-11-03T13-00-15Z
+
+131 changes for RBM's readers (published by @codebyjackson: Partner feedback: map shows one access stage at a time; registrations from 14 more national registers (DHA–PPQ 20, ASPY 14); dated timeline; STOP-AMDR; Market/Country Access; WHO GDG wording):
+
+- `stageInfo[2].what`: A WHO expert group weighs clinical evidence and decides whether the medicine is include… → WHO's Guideline Development Group (GDG) for malaria reviews the graded evidence (GRADE)…
+- `stageInfo[2].who`: WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guidelines Deve… → WHO Department of Malaria and Neglected Tropical Diseases (MNT) and its Guideline Devel…
+- `stageInfo[2].source`: WHO Guidelines for malaria → WHO Guidelines for malaria; WHO handbook for guideline development, 2nd ed. (2014), p. 130
+- `stageInfo[3].what`: A separate WHO check of quality and manufacturing, including factory inspections. Prequ… → A separate WHO check of quality and manufacturing, including factory inspections. Prequ…
+- `glossary.GDG`: Guidelines Development Group — the WHO expert group that reviews evidence and formulate… → Guideline Development Group — the group WHO convenes to make the recommendations in a W…
+- added `changelog`: 2026-11-03 · We checked the official medicine registers of 14 more countries. DHA–PPQ is now confirmed as registered in 20 countries and ASPY in 14. The map also shows Uganda and DR Congo, where the STOP-AMDR project plans to use these medicines.
+- added `changelog`: 2026-11-03 · The research sections for ASPY and DHA–PPQ now mention STOP-AMDR, a Unitaid-funded project in six African countries, and which of those countries have plans to use each medicine. The disclaimer and the procurement note now say more clearly that the figures are the best information available and that Global Fund orders are not all public purchases.
+- added `changelog`: 2026-11-03 · The medicines table now has separate Market Access and Country Access columns, so you can see which medicines have reached market access. We describe what WHO's Guideline Development Group does using WHO's own handbook, and say that the prequalification step described is the one for medicines.
+- added `changelog`: 2026-11-03 · The country access map now shows one stage at a time: choose Registered, In national guidelines or In MFT plans. Each view shows every country we have a source for at that stage, so a country can appear in more than one. This means the map and the text now give the same numbers: for example, DHA–PPQ is registered in 6 countries on the map, as the text says.
+- added `changelog`: 2026-11-03 · The timelines now show when ASPY and DHA–PPQ were first registered in a country (Viet Nam, 2013 and 2010), which was before WHO recommended ASPY and before DHA–PPQ was prequalified. ASPY's procurement since 2018 is now on its timeline too, and both medicines list their MFT pilots.
+- added `changelog`: 2026-11-03 · For ASPY we now mention that its makers report it is registered in 29 countries, and what a 2023 trial paper says about where the tablets and granules are registered, and for DHA–PPQ that Pierre Fabre has had a licence to sell Eurartesim in 32 African countries since 2015. Both are the companies' own statements; the map still shows only countries we could check in an official register or publication.
+- added `changelog`: 2026-11-03 · We now call the WHO group that recommends a medicine by its official name, the Guideline Development Group (GDG), and explain what it does for malaria medicines.
+- `products[pyramax].flag`: Adoption is the current access barrier — strongly recommended by WHO since 2022 and on … → Adoption is the current access barrier — strongly recommended by WHO since 2022 and on …
+- `products[pyramax].stages[4].note`: Confirmed in five national registers so far: Tanzania — 2 registrations (TMDA, issued 8… → Confirmed in 14 national registers so far: Benin, Burkina Faso, Cameroon, DR Congo, Eth…
+- `products[pyramax].stages[4].date`: Rolling → Since 2013 (Viet Nam, the earliest registration on the national registers checked); rol…
+- `products[pyramax].stages[4].source`: NAFDAC, TMDA, Rwanda FDA, ZAMRA and DAV registers → National registers of 14 countries (see the country access map); MMV and Shin Poong, No…
+- `products[pyramax].stages[4].asOf`: 2026-10-05 → 2026-11-03
+- added `products[pyramax].stages[4].sources`: abmed-benin
+- added `products[pyramax].stages[4].sources`: fasofda-burkina
+- added `products[pyramax].stages[4].sources`: dpml-cameroon
+- added `products[pyramax].stages[4].sources`: acorep-drc
+- added `products[pyramax].stages[4].sources`: efda-ethiopia
+- added `products[pyramax].stages[4].sources`: ppb-kenya
+- added `products[pyramax].stages[4].sources`: anarme-mozambique
+- added `products[pyramax].stages[4].sources`: fda-myanmar
+- added `products[pyramax].stages[4].sources`: arp-senegal
+- added `products[pyramax].stages[4].sources`: mmv-shinpoong-pyramax-2022
+- added `products[pyramax].stages[4].sources`: bmjopen-pyrapreg-2023
+- `products[pyramax].stages[5].note`: In national guidelines in 7 countries on the country access map, and in MFT plans in 4 … → In national guidelines in 9 countries on the country access map, three of them (Nigeria…
+- added `products[pyramax].detail.access`: Registration confirmed in 14 national registers so far: Benin, Burkina Faso, Cameroon, …
+- added `products[pyramax].detail.access`: MMV and Shin Poong reported registration in 29 countries in Africa and Asia (November 2…
+- added `products[pyramax].detail.access`: The PYRAPREG trial protocol (BMJ Open, 2023) reports the tablets registered in 19 Afric…
+- removed `products[pyramax].detail.access`: Registration confirmed in five national registers so far: Nigeria, Rwanda, Tanzania, Vi…
+- `products[pyramax].detail.research.lead`: MMV and partners → MMV and partners (efficacy studies); Jhpiego, funded by Unitaid (STOP-AMDR)
+- `products[pyramax].detail.research.geographies`: Ghana, Vietnam, Burkina Faso and others (efficacy studies) → Efficacy studies: Ghana, Viet Nam, Burkina Faso and others. STOP-AMDR (2025–2029): Burk…
+- `products[pyramax].detail.research.timeline`: Ongoing → Ongoing; STOP-AMDR 2025–2029
+- `products[pyramax].detail.country.registered`: 2 → 14
+- `products[pyramax].detail.country.inGuidelines`: 7 → 9
+- `products[pyramax].detail.country.inMft`: 4 → 6
+- `products[pyramax].detail.countries.note`: Every country listed is cited to a national medicines regulator's own register, a WHO p… → Every country listed is cited to a national medicines regulator's own register, a WHO p…
+- … and 91 more
+
 ## 2026-10-28T16-27-03Z
 
 240 changes for RBM's readers (published by @codebyjackson: Portuguese is now Brazilian (pt-BR), as RBM's site):
