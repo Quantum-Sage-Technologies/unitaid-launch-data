@@ -2,6 +2,52 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-11-04T16-41-40Z
+
+669 changes for RBM's readers (published by @codebyjackson: French and Brazilian Portuguese from the professional translators):
+
+- `stages[0] (fr)`: Recherche et développement et clinique → R&D et essais cliniques
+- `stages[0] (pt)`: P&D e Clínica → P&D e Área Clínica
+- `stages[1] (fr)`: Approbation réglementaire rigoureuse (SRA) → Approbation d’une autorité de réglementation rigoureuse (SRA)
+- `stages[1] (pt)`: Aprovação regulatória rigorosa (SRA) → Aprovação Regulatória Rigorosa (SRA)
+- `stages[2] (fr)`: Recommandation de l'OMS → Recommandation de l’OMS
+- `stages[3] (fr)`: Liste OMS PQ → Préqualification de l’OMS
+- `stages[3] (pt)`: Lista da OMS PQ → Listagem de pré-qualificação da OMS
+- `stages[4] (fr)`: Enregistrement du pays → Enregistrement national
+- `stages[4] (pt)`: Registro do país → Registro de país
+- `stages[5] (fr)`: adoption de la politique nationale → Inscription dans les politiques nationales
+- `stages[6] (fr)`: Achats (voies publiques) → Achats (canaux publics)
+- `stages[6] (pt)`: Licitações (canais públicos) → Aquisição (canais públicos)
+- `stages[7] (fr)`: Livraison à l'intérieur du pays → Mise en œuvre dans le pays
+- `stages[7] (pt)`: Entrega no país → Distribuição no país de destino
+- `stageInfo[0].what (fr)`: La découverte en laboratoire est suivie de trois phases d'essais cliniques : une premiè… → Les recherches en laboratoire sont suivies de trois phases d’essais cliniques : une pou…
+- `stageInfo[0].what (pt)`: A descoberta em laboratório é seguida por três rodadas de testes em humanos: primeiro p… → Descoberta em laboratório, seguida de três fases de ensaios clínicos em seres humanos: …
+- `stageInfo[0].who (fr)`: Le fabricant, souvent dans le cadre d'un partenariat de développement de produits tel q… → Le fabricant, souvent dans le cadre d’un partenariat de développement de produit tel qu…
+- `stageInfo[0].who (pt)`: O fabricante, geralmente em parceria para desenvolvimento de produtos, como MMV → O fabricante, frequentemente em parceria com uma organização de desenvolvimento de prod…
+- `stageInfo[0].stall (fr)`: Recruter suffisamment de patients et mettre en place des centres d'essais cliniques dan… → Recruter suffisamment de patients et mener des essais dans plusieurs pays.
+- `stageInfo[0].stall (pt)`: Recrutar pacientes suficientes e realizar ensaios clínicos em diversos países. → Recrutar um número suficiente de pacientes e conduzir ensaios clínicos em vários países.
+- `stageInfo[0].source (fr)`: Registres d'essais cliniques et annonces des fabricants → Les registres d’essais cliniques et les communiqués des fabricants.
+- `stageInfo[0].source (pt)`: Registros de ensaios clínicos e comunicados dos fabricantes → Registros de ensaios clínicos e comunicados de fabricantes.
+- `stageInfo[1].what (fr)`: Un organisme de réglementation rigoureux examine l'ensemble des données probantes relat… → Une autorité de réglementation rigoureuse examine l’ensemble des données probantes sur …
+- `stageInfo[1].what (pt)`: Uma entidade reguladora rigorosa analisa todas as evidências sobre a qualidade, seguran… → Uma autoridade reguladora rigorosa analisa todas as evidências relativas à qualidade, s…
+- `stageInfo[1].who (fr)`: L'EMA, ou un autre organisme de réglementation rigoureux comme la FDA américaine, → L’EMA, ou une autre autorité de réglementation rigoureuse comme la Food and Drug Admini…
+- `stageInfo[1].who (pt)`: EMA, ou outro órgão regulador rigoroso como o FDA dos EUA. → EMA ou outra autoridade reguladora rigorosa, como a FDA dos EUA.
+- `stageInfo[1].stall (fr)`: Préparer le dossier complet, puis attendre l'examen. → Préparer l’ensemble du dossier, puis attendre la fin de l’examen.
+- `stageInfo[1].stall (pt)`: Preparar o dossiê completo e depois aguardar a revisão. → Preparar o dossiê completo e, em seguida, aguardar a conclusão da análise.
+- `stageInfo[1].source (fr)`: EMA enregistre → Les registres de l’EMA.
+- `stageInfo[2].stall (fr)`: Le groupe se réunit selon son propre calendrier, il est donc difficile de prévoir les d… → Ce groupe se réunit à sa propre convenance, il est donc difficile d’anticiper des délai…
+- `stageInfo[2].stall (pt)`: O grupo se reúne de acordo com seu próprio calendário, então é difícil prever o horário. → O grupo se reúne de acordo com seu próprio calendário, por isso é difícil prever quando…
+- `stageInfo[3].who (fr)`: Équipe de préqualification de l'OMS → L’équipe de préqualification de l’OMS
+- `stageInfo[3].who (pt)`: Equipe de pré-qualificação da OMS → Equipe de Pré-qualificação da OMS
+- `stageInfo[3].stall (fr)`: En attente d'une invitation, puis des inspections. → Attendre un nouveau cycle d’invitation, puis les inspections.
+- `stageInfo[3].stall (pt)`: Aguardando convites para a rodada de visitas, e depois as inspeções. → Aguardar uma rodada de convites e, em seguida, as inspeções.
+- `stageInfo[3].source (fr)`: Liste de préqualification de l'OMS et déclaration d'intérêt → La liste de préqualification de l’OMS et l’appel à manifestation d’intérêt.
+- `stageInfo[3].source (pt)`: Lista de pré-qualificação da OMS e Manifestação de Interesse → Lista de pré-qualificação e Manifestação de Interesse da OMS
+- `stageInfo[4].what (fr)`: Chaque organisme de réglementation national délivre une autorisation de mise sur le mar… → L’autorité de réglementation de chaque pays délivre une autorisation de mise sur le mar…
+- `stageInfo[4].what (pt)`: Cada órgão regulador nacional licencia o medicamento antes que ele possa ser vendido ou… → A autoridade reguladora de cada país autoriza o medicamento antes que ele possa ser com…
+- `stageInfo[4].who (fr)`: organismes nationaux de réglementation des médicaments → Les autorités nationales de réglementation des médicaments.
+- … and 629 more
+
 ## 2026-11-03T13-00-15Z
 
 131 changes for RBM's readers (published by @codebyjackson: Partner feedback: map shows one access stage at a time; registrations from 14 more national registers (DHA–PPQ 20, ASPY 14); dated timeline; STOP-AMDR; Market/Country Access; WHO GDG wording):
