@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T16:41:40.025Z",
-  "approved_at": "2026-11-04T16:41:40.025Z",
-  "approved_by": "codebyjackson",
+  "generated_at": "2026-11-05T11:27:24.982Z",
+  "approved_at": "2026-11-05T11:27:24.983Z",
+  "approved_by": "KylerXiv",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "French and Brazilian Portuguese from the professional translators"
+    "reason": "Unitaid feedback 5 Nov 2026: procurement figures parked (presentations only), class label removed, translators' wording (PRs #148, #149)"
   },
-  "pipeline_commit": "4ad780e08c0eb8232a7b5470a0d256a7ad18f437",
-  "content_hash": "9f9ac9c488e91b50a3cc36e458e9fd50a5bf2bec9126db63d171428525eb99f3",
+  "pipeline_commit": "6054af6ed76f4ef050b68f7340ee92bbe954ca0b",
+  "content_hash": "4d09eabb64c9c420a5e572a20a8cd4830e1e2a6565c953420fd01d48de724a9f",
   "locales": [
     "en",
     "fr",
     "pt"
   ],
   "data_status": "draft",
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-05",
   "source_coverage": [
     {
       "id": "bmjgh-rwanda-mft",
@@ -1010,6 +1010,15 @@
     },
     "changelog": [
       {
+        "date": "2026-11-05",
+        "product": "ASPY, DHA–PPQ",
+        "plain": {
+          "en": "Procurement figures are withdrawn while they are reviewed. Each medicine's procurement section lists the presentations bought through Global Fund-financed orders, and the figures will be added again once they are confirmed.",
+          "fr": "Les chiffres relatifs aux achats sont retirés le temps de leur vérification. La section consacrée aux achats pour chaque médicament répertorie les présentations acquises grâce aux commandes financées par le Fonds mondial ; les chiffres seront réintégrés une fois confirmés.",
+          "pt": "Os dados de aquisição são suspensos enquanto estão sendo analisados. A seção de aquisição de cada medicamento lista as apresentações compradas por meio de pedidos financiados pelo Fundo Global, e os dados serão adicionados novamente assim que forem confirmados."
+        }
+      },
+      {
         "date": "2026-11-03",
         "product": "ASPY, DHA–PPQ",
         "plain": {
@@ -1121,9 +1130,9 @@
         "date": "2026-10-15",
         "product": "All",
         "plain": {
-          "en": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.",
-          "fr": "Nous avons mis à jour le nom du département de l’OMS chargé du paludisme, qui s’appelle désormais Département du paludisme et des maladies tropicales négligées. Le nombre de pays mentionnés pour l’ASPY et la DHA–PPQ correspond désormais à ceux de la carte de l’accès aux pays, et nous indiquons le nombre de pays confirmés par un registre national des médicaments. Nous avons supprimé les chiffres portant sur les années de retard jusqu’à ce que leur mode de calcul fasse l’objet d’un accord ; le délai prévu pour chaque étape est conservé. La description de l’ALAQ précise désormais que ce médicament est encore en phase de développement clinique et que son rôle futur dépendra des résultats des essais, des autorités réglementaires, de l’OMS et des pays. La description de l’ASPY précise désormais que l’enregistrement et l’adoption varient d’un pays à l’autre et que LAUNCH les vérifie pays par pays. Concernant la DHA–PPQ, nous expliquons à quoi correspond le pourcentage de 0,9 à 4,5 %, décrivons ses utilisations de manière plus précise et avons corrigé le nombre d’enregistrements actifs au Nigéria, qui passe de 26 à 25. Aucune date ni aucun statut n’ont été modifiés.",
-          "pt": "Atualizamos o nome do departamento de malária da OMS para Departamento de Malária e Doenças Tropicais Negligenciadas (MNT). As contagens de países para ASPY e DHA–PPQ agora correspondem ao mapa de acesso por país, e mostramos em quantos países são confirmados pelo registro nacional de medicamentos. Removemos os números de anos de atraso até que haja um consenso sobre a metodologia de cálculo dos mesmos; o tempo previsto para cada etapa foi mantido. A descrição da ALAQ agora informa que ela ainda está em desenvolvimento clínico e que seu papel futuro depende dos resultados dos ensaios clínicos, das autoridades reguladoras, da OMS e dos países. A descrição da ASPY agora informa que o registro e a adoção variam entre os países e que o LAUNCH está verificando essas informações em cada país. Para DHA–PPQ, esclarecemos a que se refere a proporção de 0,9% a 4,5%, descrevemos seus usos com mais precisão e corrigimos de 26 para 25 o número de registros ativos na Nigéria. Nenhuma data ou status foram alterados."
+          "en": "We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what its share of Global Fund orders is measured against, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.",
+          "fr": "Nous avons mis à jour le nom du département du paludisme de l'OMS, qui s'appelle désormais Département du paludisme et des maladies tropicales négligées (MNT). Le nombre de pays où ASPY et DHA-PPQ sont disponibles correspond maintenant à la carte d'accès aux médicaments, et nous indiquons le nombre de pays pour lesquels un registre national des médicaments est confirmé. Nous avons supprimé les chiffres relatifs aux années de retard en attendant de définir leur mode de calcul ; la durée prévue pour chaque étape est maintenue. La description du médicament ALAQ indique désormais qu'il est toujours en développement clinique et que son rôle futur dépend des résultats des essais, des autorités réglementaires, de l'OMS et des pays. La description d'ASPY précise que l'enregistrement et l'adoption varient selon les pays et que LAUNCH les vérifie pays par pays. Concernant DHA-PPQ, nous expliquons comment sa part des commandes du Fonds mondial est mesurée, décrivons plus précisément ses utilisations et corrigé le nombre d'enregistrements actifs au Nigéria, qui est passé de 26 à 25. Aucune date ni aucun statut n'ont été modifiés.",
+          "pt": "Atualizamos o nome do departamento de malária da OMS para Departamento de Malária e Doenças Tropicais Negligenciadas (MNT). A contagem de países para ASPY e DHA-PPQ agora corresponde ao mapa de acesso por país, e mostramos quantos países um registro nacional de medicamentos confirma. Removemos os dados com anos de atraso até que a forma de cálculo seja definida; o tempo previsto para cada etapa permanece o mesmo. A descrição do ALAQ agora indica que ele ainda está em desenvolvimento clínico e que seu papel futuro depende dos resultados dos ensaios, das agências reguladoras, da OMS e dos países. A descrição do ASPY agora indica que o registro e a adoção variam de acordo com o país e que o LAUNCH está verificando-os país por país. Para o DHA-PPQ, explicamos em relação a qual sua participação nos pedidos do Fundo Global é medida, descrevemos seus usos com mais detalhes e corrigimos a contagem de registros ativos da Nigéria de 26 para 25. Nenhuma data ou status foi alterado."
         }
       },
       {
@@ -1184,9 +1193,9 @@
         "date": "2026-09-08",
         "product": "ASPY",
         "plain": {
-          "en": "We found a real example of a country acting on the World Health Organization's advice: Ghana added this medicine as a backup first-choice treatment in 2022. It's still the only country confirmed to have done so. We also recorded the years Global Fund purchasing began for both underused medicines (2018 and 2008).",
-          "fr": "Nous avons trouvé un exemple concret de pays ayant suivi les recommandations de l’OMS : le Ghana a ajouté ce médicament à sa liste de traitements de premier choix alternatifs en 2022. C’est encore à ce jour le seul pays dont on sait avec certitude qu’il a pris cette mesure. Nous avons également noté les années au cours desquelles le Fonds mondial a commencé à acheter ces deux médicaments sous-utilisés (2018 et 2008).",
-          "pt": "Encontramos um exemplo concreto de um país que está seguindo as recomendações da Organização Mundial da Saúde: Gana incluiu esse medicamento como tratamento alternativo de primeira linha em 2022. Até o momento, continua sendo o único país com essa medida confirmada. Também registramos os anos em que o Global Fund começou a adquirir os dois medicamentos subutilizados (2018 e 2008)."
+          "en": "We found a real example of a country acting on the World Health Organization's advice: Ghana added this medicine as a backup first-choice treatment in 2022. It's still the only country confirmed to have done so. We also recorded the years Global Fund purchasing began for both recommended medicines (2018 and 2008).",
+          "fr": "Nous avons trouvé un exemple concret de pays ayant suivi les recommandations de l’OMS : le Ghana a ajouté ce médicament à sa liste de traitements de premier choix alternatifs en 2022. C’est encore à ce jour le seul pays dont on sait avec certitude qu’il a pris cette mesure. Nous avons également noté les années au cours desquelles le Fonds mondial a commencé à acheter ces deux médicaments recommandés (2018 et 2008).",
+          "pt": "Encontramos um exemplo concreto de um país que está seguindo as recomendações da Organização Mundial da Saúde: Gana incluiu esse medicamento como tratamento alternativo de primeira linha em 2022. Até o momento, continua sendo o único país com essa medida confirmada. Também registramos os anos em que o Global Fund começou a adquirir os dois medicamentos recomendados (2018 e 2008)."
         }
       },
       {
@@ -1261,18 +1270,18 @@
         "date": "2026-08-23",
         "product": "DHA–PPQ",
         "plain": {
-          "en": "Purchasing figures added: the Global Fund has bought 11.5 million packs (US$41.5m) since 2008, with a sharp rise in 2025. Nine versions of the medicine have passed World Health Organization quality checks.",
-          "fr": "Ajout de chiffres relatifs aux achats : le Fonds mondial a acheté 11,5 millions de boîtes (41,5 millions de dollars US) depuis 2008, avec une forte hausse en 2025. Neuf versions de ce médicament ont satisfait aux contrôles de qualité de l’OMS.",
-          "pt": "Dados de aquisições incluídos: o Global Fund adquiriu 11,5 milhões de embalagens (US$ 41,5 milhões) desde 2008, com um aumento acentuado em 2025. Nove versões do medicamento passaram pelas avaliações de qualidade da Organização Mundial da Saúde."
+          "en": "Global Fund purchasing figures were added (orders since 2008). Nine versions of the medicine have passed World Health Organization quality checks.",
+          "fr": "Les chiffres d'achat du Fonds mondial ont été ajoutés (commandes depuis 2008). Neuf versions du médicament ont passé avec succès les contrôles de qualité de l'Organisation mondiale de la santé.",
+          "pt": "Foram adicionados os dados de compras do Fundo Global (encomendas desde 2008). Nove versões do medicamento passaram pelos controles de qualidade da Organização Mundial da Saúde."
         }
       },
       {
         "date": "2026-08-23",
         "product": "ASPY",
         "plain": {
-          "en": "Purchasing figures added: the Global Fund has bought 940,000 packs (US$14.5m) since 2018, most of it in 2025 for Uganda and Burkina Faso. The European medicines decision date is now recorded.",
-          "fr": "Ajout de chiffres relatifs aux achats : le Fonds mondial a acheté 940 000 boîtes (14,5 millions de dollars US) depuis 2018, dont la majeure partie en 2025 pour l’Ouganda et le Burkina Faso. La date de la décision de l’EMA est désormais enregistrée.",
-          "pt": "Dados de aquisições incluídos: o Global Fund adquiriu 940 mil embalagens (US$ 14,5 milhões) desde 2018, a maior parte em 2025 para Uganda e Burkina Faso. A data da decisão da autoridade europeia de medicamentos agora está registrada."
+          "en": "Global Fund purchasing figures were added (orders since 2018). The European medicines decision date is now recorded.",
+          "fr": "Les chiffres des achats du Fonds mondial ont été ajoutés (commandes depuis 2018). La date de décision de la Commission européenne sur les médicaments est désormais enregistrée.",
+          "pt": "Foram adicionados os dados de compras do Fundo Global (encomendas desde 2018). A data da decisão europeia sobre medicamentos foi agora registada."
         }
       },
       {
@@ -2229,9 +2238,9 @@
         "manufacturer": "Shin Poong Pharmaceutical · MMV",
         "class": "market",
         "classLabel": {
-          "en": "Recommended · underutilized",
-          "fr": "Recommandé · Sous-utilisé",
-          "pt": "Recomendado - subutilizado"
+          "en": "WHO-recommended",
+          "fr": "recommandé par l'OMS",
+          "pt": "Recomendado pela OMS"
         },
         "phase": "access",
         "currentStage": 5,
@@ -2441,9 +2450,9 @@
           {
             "status": "prog",
             "note": {
-              "en": "Global Fund procurement 2018–2025: 68 transactions, US$14.5m — modest overall, but US$11.6m of it landed in 2025 (led by Uganda and Burkina Faso), a sharp uptick consistent with early MFT rollouts",
-              "fr": "Achats du Fonds mondial 2018-2025 : 68 transactions, 14,5 millions de dollars US – un montant globalement modeste, mais dont 11,6 millions de dollars US ont été engagés en 2025 (principalement en Ouganda et au Burkina Faso), une forte hausse correspondant aux premiers déploiements des MFT",
-              "pt": "Aquisições do Global Fund entre 2018 e 2025: 68 transações, US$ 14,5 milhões — volume total modesto, mas US$ 11,6 milhões destes foram registrados em 2025 (com liderança de Uganda e Burkina Faso), um aumento acentuado compatível com as fases iniciais de implementação de MFT"
+              "en": "Bought through Global Fund-financed procurement since 2018. The procurement figures are being reviewed and will be added later.",
+              "fr": "Acquisitions réalisées grâce à des achats financés par le Fonds mondial depuis 2018. Les chiffres relatifs à ces acquisitions sont en cours de révision et seront ajoutés ultérieurement.",
+              "pt": "Adquirido através de compras financiadas pelo Fundo Global desde 2018. Os valores das compras estão sendo revisados e serão adicionados posteriormente."
             },
             "date": {
               "en": "Since 2018",
@@ -2451,14 +2460,14 @@
               "pt": "Desde 2018"
             },
             "next": {
-              "en": "Verify 2025 surge holds in next quarterly PQR extract",
-              "fr": "Vérifier le maintien de la hausse de 2025 dans le prochain extrait du rapport trimestriel sur les prix et la qualité",
-              "pt": "Verificar se o aumento acentuado de 2025 se mantém no próximo extrato trimestral do PQR"
+              "en": "Procurement figures to be added after review",
+              "fr": "Les chiffres relatifs aux achats seront ajoutés après examen.",
+              "pt": "Os valores relativos às aquisições serão adicionados após revisão."
             },
             "nextDate": {
-              "en": "Q4 2026",
-              "fr": "Q4 2026",
-              "pt": "Q4 2026"
+              "en": "TBC",
+              "fr": "TBC",
+              "pt": "TBC"
             },
             "source": "Global Fund PQR Transaction Summary (extract 23 Aug 2026)",
             "asOf": "2026-08-23",
@@ -2803,55 +2812,26 @@
               "year": "TBC"
             }
           ],
-          "volume": {
-            "total": {
-              "en": "68 transactions · US$14.5m (2018–2025)",
-              "fr": "68 transactions · 14,5 millions de dollars US (2018-2025)",
-              "pt": "68 transações · US$ 14,5 milhões (2018–2025)"
-            },
-            "period": {
-              "en": "Global Fund PQR, 2018–2025 · US$11.6m in 2025 · top buyers Uganda, Burkina Faso, Ghana",
-              "fr": "Rapport du Fonds mondial sur les prix et la qualité, 2018-2025 · 11,6 millions de dollars US en 2025   Principaux acheteurs : Ouganda, Burkina Faso, Ghana",
-              "pt": "PQR do Global Fund, 2018–2025 · US$ 11,6 milhões em 2025 · principais compradores: Uganda, Burkina Faso e Gana"
-            },
-            "split": [
+          "volume": null,
+          "volumeNote": {
+            "en": "Procurement figures are being reviewed and will be added later.",
+            "fr": "Les chiffres relatifs aux achats sont en cours de vérification et seront ajoutés ultérieurement.",
+            "pt": "Os dados sobre as aquisições estão sendo analisados e serão adicionados posteriormente."
+          },
+          "procurement": {
+            "presentations": [
               {
-                "channel": {
-                  "en": "Global Fund (PQR-recorded)",
-                  "fr": "Fonds mondial (inscrit dans le rapport sur les prix et la qualité)",
-                  "pt": "Global Fund (registrado no PQR)"
-                },
-                "pct": 100
-              }
-            ],
-            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag.",
-            "byPresentation": [
-              {
-                "label": {
-                  "en": "60/180 mg tablets · pack of 90",
-                  "fr": "Comprimés de 60/180 mg · Boîte de 90",
-                  "pt": "Comprimidos de 60/180 mg - embalagem com 90 unidades"
-                },
-                "transactions": 43,
-                "packs": 542233,
-                "courses": null
+                "en": "20/60 mg granules · 90 sachets",
+                "fr": "Granulés de 20/60 mg · 90 sachets",
+                "pt": "Grânulos de 20/60 mg - 90 sachês"
               },
               {
-                "label": {
-                  "en": "20/60 mg granules · 90 sachets",
-                  "fr": "Granulés de 20/60 mg · 90 sachets",
-                  "pt": "Grânulos de 20/60 mg - 90 sachês"
-                },
-                "transactions": 25,
-                "packs": 397878,
-                "courses": null
+                "en": "60/180 mg tablets · pack of 90",
+                "fr": "Comprimés de 60/180 mg · Boîte de 90",
+                "pt": "Comprimidos de 60/180 mg - embalagem com 90 unidades"
               }
             ],
-            "coursesRule": {
-              "en": "Treatment courses are not estimated: the Global Fund's product names for ASPY do not state how many tablets or sachets make one course, and the number depends on body weight.",
-              "fr": "Pas d’estimation du nombre de traitements : le nom des produits du Fonds mondial pour l’ASPY ne précise pas combien de comprimés ou de sachets constituent un traitement complet, et ce nombre dépend du poids corporel.",
-              "pt": "O número de tratamentos completos não é estimado: os nomes dos produtos ASPY no Global Fund não indicam quantos comprimidos ou sachês são necessários para um tratamento completo, e essa quantidade depende do peso corporal."
-            },
+            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026",
             "sources": [
               "global-fund-pqr"
             ]
@@ -3113,24 +3093,24 @@
               },
               "status": "prog",
               "label": {
-                "en": "US$14.5m, 68 transactions (GF, to 2025)",
-                "fr": "14,5 millions de dollars US, 68 transactions (Fonds mondial, jusqu’à 2025)",
-                "pt": "US$ 14,5 milhões, 68 transações (GF, até 2025)"
+                "en": "Figures under review",
+                "fr": "Chiffres en cours d'examen",
+                "pt": "Dados em análise"
               },
               "date": {
-                "en": "US$11.6m in 2025",
-                "fr": "11,6 millions de dollars US en 2025",
-                "pt": "US$ 11,6 milhões em 2025"
+                "en": "Since 2018",
+                "fr": "Depuis 2018",
+                "pt": "Desde 2018"
               },
               "next": {
-                "en": "Verify surge in next PQR extract",
-                "fr": "Vérifier la hausse dans le prochain extrait du rapport sur les prix et la qualité",
-                "pt": "Verificar o aumento acentuado no próximo extrato do PQR"
+                "en": "Figures to be added after review",
+                "fr": "Les chiffres seront ajoutés après examen.",
+                "pt": "Os números serão adicionados após revisão."
               },
               "anticipated": {
-                "en": "Q4 2026",
-                "fr": "Q4 2026",
-                "pt": "Q4 2026"
+                "en": "TBC",
+                "fr": "À confirmer",
+                "pt": "TBC"
               },
               "source": "Global Fund PQR (extract 23 Aug 2026)",
               "sources": [
@@ -3147,21 +3127,21 @@
         "manufacturer": "Alfasigma (Eurartesim) · Guilin · Beijing Holley (PQ'd suppliers)",
         "class": "market",
         "classLabel": {
-          "en": "Recommended · underutilized",
-          "fr": "Recommandé · Sous-utilisé",
-          "pt": "Recomendado - subutilizado"
+          "en": "WHO-recommended",
+          "fr": "recommandé par l'OMS",
+          "pt": "Recomendado pela OMS"
         },
         "phase": "access",
         "currentStage": 6,
         "flag": {
-          "en": "Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24, despite a WHO recommendation dating to 2010, though 2025 orders surged (PQR, reporting still incomplete)",
-          "fr": "Les achats constituent l’actuel obstacle à l’accès : ils représentent entre 0,9 % et 4,5 % de la valeur totale des médicaments antipaludiques commandés chaque année par le Fonds mondial entre 2022 et 2024, malgré une recommandation de l’OMS datant de 2010 ; toutefois, les commandes ont fortement augmenté en 2025 (rapport sur les prix et la qualité, encore incomplet).",
-          "pt": "As aquisições são atualmente a principal barreira ao acesso – representaram de 0,9% a 4,5% do valor total dos medicamentos antimaláricos encomendados pelo Global Fund a cada ano entre 2022 e 2024, apesar de uma recomendação da OMS datada de 2010, embora os pedidos tenham aumentado acentuadamente em 2025 (PQR, dados ainda incompletos)"
+          "en": "Procurement is the current access barrier, despite a WHO recommendation dating to 2010. The procurement figures behind this are being reviewed.",
+          "fr": "L’approvisionnement constitue actuellement le principal obstacle à l’accès, malgré une recommandation de l’OMS datant de 2010. Les chiffres relatifs à l’approvisionnement qui sous-tendent cette situation sont en cours de révision.",
+          "pt": "O processo de aquisição é a atual barreira de acesso, apesar de uma recomendação da OMS datada de 2010. Os dados relativos às aquisições que comprovam essa situação estão sendo analisados."
         },
         "barrier": {
-          "en": "Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24",
-          "fr": "Seulement 0,9 à 4,5 % de la valeur totale des commandes de médicaments antipaludiques du Fonds mondial, 2022-2024",
-          "pt": "Apenas 0,9% a 4,5% do valor dos pedidos de medicamentos antimaláricos do Global Fund entre 2022 e 2024"
+          "en": "Procurement; figures under review",
+          "fr": "Achats; chiffres en cours d'examen",
+          "pt": "Aquisições; números em revisão"
         },
         "stages": [
           {
@@ -3363,9 +3343,9 @@
           {
             "status": "late",
             "note": {
-              "en": "Global Fund orders go back to 2008 (US$41.5m over 234 transactions, 2008–2026), but have stayed small: 0.9–4.5% of the value of all antimalarial medicines the Global Fund ordered each year in 2022–24 (4.4% in 2022, 0.9% in 2023, 4.5% in 2024, by order date). The timeline counts from WHO prequalification in 2015. 2025 shows a sharp uptick (US$15.3m, led by Uganda, Madagascar, Mozambique) that needs confirming as reporting completes",
-              "fr": "Les commandes du Fonds mondial remontent à 2008 (41,5 millions de dollars US répartis sur 234 transactions, 2008-2026), mais sont restées modestes : entre 0,9 % et 4,5 % de la valeur totale des médicaments antipaludiques commandés chaque année par le Fonds mondial entre 2022 et 2024 (4,4 % en 2022, 0,9 % en 2023, 4,5 % en 2024, selon la date de commande). Le décompte commence à partir de la préqualification de l’OMS en 2015. L’année 2025 affiche une forte hausse (15,3 millions de dollars US, principalement en Ouganda, à Madagascar et au Mozambique) qui doit être confirmée une fois les rapports finalisés",
-              "pt": "Os pedidos do Global Fund remontam a 2008 (US$ 41,5 milhões em 234 transações, entre 2008 e 2026), mas permaneceram modestos: de 0,9% a 4,5% do valor total de medicamentos antimaláricos pedidos pelo Global Fund a cada ano entre 2022 e 2024 (4,4% em 2022, 0,9% em 2023 e 4,5% em 2024, por data de pedido). A linha do tempo começa na pré-qualificação pela OMS em 2015. Em 2025, observa-se um aumento acentuado (US$ 15,3 milhões, liderado por Uganda, Madagascar e Moçambique), que precisa ser confirmado à medida que o relatório é concluído"
+              "en": "Bought through Global Fund-financed procurement since 2008; the timeline counts from WHO prequalification in 2015. The procurement figures are being reviewed and will be added later.",
+              "fr": "Acquis grâce à des achats financés par le Fonds mondial depuis 2008 ; la période court à partir de la préqualification par l’OMS en 2015. Les chiffres relatifs aux achats sont en cours de révision et seront ajoutés ultérieurement.",
+              "pt": "Adquiridos por meio de compras financiadas pelo Fundo Global desde 2008; o período começa a contar a partir da pré-qualificação da OMS em 2015. Os valores das compras estão sendo revisados e serão adicionados posteriormente."
             },
             "date": {
               "en": "Since 2008",
@@ -3373,14 +3353,14 @@
               "pt": "Desde 2008"
             },
             "next": {
-              "en": "Verify 2025 surge holds in next quarterly PQR extract",
-              "fr": "Vérifier le maintien de la hausse de 2025 dans le prochain extrait du rapport trimestriel sur les prix et la qualité",
-              "pt": "Verificar se o aumento acentuado de 2025 se mantém no próximo extrato trimestral do PQR"
+              "en": "Procurement figures to be added after review",
+              "fr": "Les chiffres relatifs aux achats seront ajoutés après examen.",
+              "pt": "Os valores relativos às aquisições serão adicionados após revisão."
             },
             "nextDate": {
-              "en": "Q4 2026",
-              "fr": "Q4 2026",
-              "pt": "Q4 2026"
+              "en": "TBC",
+              "fr": "TBC",
+              "pt": "TBC"
             },
             "source": "Global Fund PQR Transaction Summary (extract 23 Aug 2026)",
             "asOf": "2026-08-23",
@@ -3422,9 +3402,9 @@
           "price": {
             "value": "TBC",
             "note": {
-              "en": "Pooled procurement reference pricing to be displayed once confirmed for release; PQR median pack price ≈ US$1.70 across presentations (indicative only — pack sizes vary)",
-              "fr": "Pooled procurement reference pricing to be displayed once confirmed for release; PQR median pack price ≈ US$1.70 across presentations (indicative only — pack sizes vary)",
-              "pt": "Pooled procurement reference pricing to be displayed once confirmed for release; PQR median pack price ≈ US$1.70 across presentations (indicative only — pack sizes vary)"
+              "en": "Pooled procurement reference pricing to be displayed once confirmed for release",
+              "fr": "Pooled procurement reference pricing to be displayed once confirmed for release",
+              "pt": "Pooled procurement reference pricing to be displayed once confirmed for release"
             },
             "source": "",
             "confirmedInWriting": false,
@@ -3760,155 +3740,76 @@
               "year": "TBC"
             }
           ],
-          "volume": {
-            "total": {
-              "en": "234 transactions · US$41.5m (2008–2026)",
-              "fr": "234 transactions · 41,5 millions de dollars US (2008-2026)",
-              "pt": "234 transações · US$ 41,5 milhões (2008–2026)"
-            },
-            "period": {
-              "en": "Global Fund PQR, 2008–2026 · US$15.3m in 2025 · top buyers Uganda, Madagascar, Mozambique",
-              "fr": "Rapport du Fonds mondial sur les prix et la qualité, 2008-2026 · 15,3 millions de dollars US en 2025   Principaux acheteurs : Ouganda, Madagascar, Mozambique",
-              "pt": "PQR do Global Fund, 2008–2026 · US$ 15,3 milhões em 2025 · principais compradores: Uganda, Madagascar e Moçambique"
-            },
-            "split": [
+          "volume": null,
+          "volumeNote": {
+            "en": "Procurement figures are being reviewed and will be added later.",
+            "fr": "Les chiffres relatifs aux achats sont en cours de vérification et seront ajoutés ultérieurement.",
+            "pt": "Os dados sobre as aquisições estão sendo analisados e serão adicionados posteriormente."
+          },
+          "procurement": {
+            "presentations": [
               {
-                "channel": {
-                  "en": "Global Fund (PQR-recorded)",
-                  "fr": "Fonds mondial (inscrit dans le rapport sur les prix et la qualité)",
-                  "pt": "Global Fund (registrado no PQR)"
-                },
-                "pct": 100
+                "en": "20/160 mg dispersible tablets · blister of 3",
+                "fr": "Comprimés dispersibles de 20/160 mg · Plaquette de 3",
+                "pt": "Comprimidos dispersíveis de 20/160 mg   blister com 3 unidades"
+              },
+              {
+                "en": "20/160 mg dispersible tablets · box of 2 blisters of 3",
+                "fr": "Comprimés dispersibles de 20/160 mg · Boîte de 2 plaquettes de 3",
+                "pt": "Comprimidos dispersíveis de 20/160 mg   caixa com 2 blisters de 3 unidades"
+              },
+              {
+                "en": "20/160 mg dispersible tablets · box of 25 blisters of 3",
+                "fr": "Comprimés dispersibles de 20/160 mg · Boîte de 25 plaquettes de 3",
+                "pt": "Comprimidos dispersíveis de 20/160 mg   caixa com 25 blisters de 3 unidades"
+              },
+              {
+                "en": "20/160 mg tablets · blister of 3",
+                "fr": "Comprimés de 20/160 mg · Plaquette de 3",
+                "pt": "Comprimidos de 20/160 mg   blister com 3 unidades"
+              },
+              {
+                "en": "40/320 mg dispersible tablets · blister of 3",
+                "fr": "Comprimés dispersibles de 40/320 mg · Plaquette de 3",
+                "pt": "Comprimidos dispersíveis de 40/320 mg   blister com 3 unidades"
+              },
+              {
+                "en": "40/320 mg dispersible tablets · box of 2 blisters of 3",
+                "fr": "Comprimés dispersibles de 40/320 mg · Boîte de 2 plaquettes de 3",
+                "pt": "Comprimidos dispersíveis de 40/320 mg   caixa com 2 blisters de 3 unidades"
+              },
+              {
+                "en": "40/320 mg dispersible tablets · box of 25 blisters of 3",
+                "fr": "Comprimés dispersibles de 40/320 mg · Boîte de 25 plaquettes de 3",
+                "pt": "Comprimidos dispersíveis de 40/320 mg   caixa com 25 blisters de 3 unidades"
+              },
+              {
+                "en": "40/320 mg tablets · blister of 3",
+                "fr": "Comprimés de 40/320 mg · Plaquette de 3",
+                "pt": "Comprimidos de 40/320 mg   blister com 3 unidades"
+              },
+              {
+                "en": "40/320 mg tablets · blister of 6",
+                "fr": "Comprimés de 40/320 mg · Plaquette de 6",
+                "pt": "Comprimidos de 40/320 mg   blister com 6 unidades"
+              },
+              {
+                "en": "40/320 mg tablets · blister of 9",
+                "fr": "Comprimés de 40/320 mg · Plaquette de 9",
+                "pt": "Comprimidos de 40/320 mg   blister com 9 unidades"
+              },
+              {
+                "en": "40/320 mg tablets · box of 25 blisters of 9",
+                "fr": "Comprimés de 40/320 mg · Boîte de 25 plaquettes de 9",
+                "pt": "Comprimidos de 40/320 mg   caixa com 25 blisters de 9 unidades"
+              },
+              {
+                "en": "40/320 mg tablets · recorded as 3 per course, in a blister of 8",
+                "fr": "Comprimés de 40/320 mg · 3 par traitement, dans une plaquette de 8 (selon dossier)",
+                "pt": "Comprimidos de 40/320 mg · registrados como 3 por tratamento completo, em um blister com 8 unidades"
               }
             ],
-            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026 — sourcing/staging/procurement_transactions.csv. Covers Global Fund-financed procurement only; US PMI data unavailable post-2025 (GHSC-PSM dataset offline). Recent quarters incomplete due to PQR reporting lag.",
-            "byPresentation": [
-              {
-                "label": {
-                  "en": "40/320 mg tablets · blister of 9",
-                  "fr": "Comprimés de 40/320 mg · Plaquette de 9",
-                  "pt": "Comprimidos de 40/320 mg   blister com 9 unidades"
-                },
-                "transactions": 69,
-                "packs": 6400111,
-                "courses": 6400111
-              },
-              {
-                "label": {
-                  "en": "40/320 mg dispersible tablets · blister of 3",
-                  "fr": "Comprimés dispersibles de 40/320 mg · Plaquette de 3",
-                  "pt": "Comprimidos dispersíveis de 40/320 mg   blister com 3 unidades"
-                },
-                "transactions": 15,
-                "packs": 2711497,
-                "courses": null
-              },
-              {
-                "label": {
-                  "en": "40/320 mg dispersible tablets · box of 2 blisters of 3",
-                  "fr": "Comprimés dispersibles de 40/320 mg · Boîte de 2 plaquettes de 3",
-                  "pt": "Comprimidos dispersíveis de 40/320 mg   caixa com 2 blisters de 3 unidades"
-                },
-                "transactions": 11,
-                "packs": 427750,
-                "courses": null
-              },
-              {
-                "label": {
-                  "en": "20/160 mg dispersible tablets · box of 25 blisters of 3",
-                  "fr": "Comprimés dispersibles de 20/160 mg · Boîte de 25 plaquettes de 3",
-                  "pt": "Comprimidos dispersíveis de 20/160 mg   caixa com 25 blisters de 3 unidades"
-                },
-                "transactions": 25,
-                "packs": 334390,
-                "courses": 8359750
-              },
-              {
-                "label": {
-                  "en": "40/320 mg tablets · box of 25 blisters of 9",
-                  "fr": "Comprimés de 40/320 mg · Boîte de 25 plaquettes de 9",
-                  "pt": "Comprimidos de 40/320 mg   caixa com 25 blisters de 9 unidades"
-                },
-                "transactions": 19,
-                "packs": 323694,
-                "courses": 8092350
-              },
-              {
-                "label": {
-                  "en": "20/160 mg dispersible tablets · box of 2 blisters of 3",
-                  "fr": "Comprimés dispersibles de 20/160 mg · Boîte de 2 plaquettes de 3",
-                  "pt": "Comprimidos dispersíveis de 20/160 mg   caixa com 2 blisters de 3 unidades"
-                },
-                "transactions": 25,
-                "packs": 315009,
-                "courses": 630018
-              },
-              {
-                "label": {
-                  "en": "40/320 mg tablets · blister of 3",
-                  "fr": "Comprimés de 40/320 mg · Plaquette de 3",
-                  "pt": "Comprimidos de 40/320 mg   blister com 3 unidades"
-                },
-                "transactions": 21,
-                "packs": 305842,
-                "courses": 305842
-              },
-              {
-                "label": {
-                  "en": "40/320 mg tablets · blister of 6",
-                  "fr": "Comprimés de 40/320 mg · Plaquette de 6",
-                  "pt": "Comprimidos de 40/320 mg   blister com 6 unidades"
-                },
-                "transactions": 27,
-                "packs": 205708,
-                "courses": 205708
-              },
-              {
-                "label": {
-                  "en": "40/320 mg tablets · recorded as 3 per course, in a blister of 8",
-                  "fr": "Comprimés de 40/320 mg · 3 par traitement, dans une plaquette de 8 (selon dossier)",
-                  "pt": "Comprimidos de 40/320 mg · registrados como 3 por tratamento completo, em um blister com 8 unidades"
-                },
-                "transactions": 7,
-                "packs": 166193,
-                "courses": null
-              },
-              {
-                "label": {
-                  "en": "20/160 mg dispersible tablets · blister of 3",
-                  "fr": "Comprimés dispersibles de 20/160 mg · Plaquette de 3",
-                  "pt": "Comprimidos dispersíveis de 20/160 mg   blister com 3 unidades"
-                },
-                "transactions": 3,
-                "packs": 134728,
-                "courses": 134728
-              },
-              {
-                "label": {
-                  "en": "20/160 mg tablets · blister of 3",
-                  "fr": "Comprimés de 20/160 mg · Plaquette de 3",
-                  "pt": "Comprimidos de 20/160 mg   blister com 3 unidades"
-                },
-                "transactions": 9,
-                "packs": 95290,
-                "courses": 95290
-              },
-              {
-                "label": {
-                  "en": "40/320 mg dispersible tablets · box of 25 blisters of 3",
-                  "fr": "Comprimés dispersibles de 40/320 mg · Boîte de 25 plaquettes de 3",
-                  "pt": "Comprimidos dispersíveis de 40/320 mg   caixa com 25 blisters de 3 unidades"
-                },
-                "transactions": 3,
-                "packs": 72827,
-                "courses": null
-              }
-            ],
-            "coursesRule": {
-              "en": "Treatment courses are estimated only where the Global Fund's product name states the tablets in one course (\"40mg+320mg - 9\" is 9 tablets): courses = tablets in the pack ÷ tablets per course. Packs whose name does not state it, or does not divide evenly, are not estimated.",
-              "fr": "Le nombre estimé de traitements est indiqué uniquement lorsque le nom du produit du Fonds mondial précise le nombre de comprimés par traitement (« 40 mg + 320 mg - 9 » correspond à 9 comprimés) : nombre de traitements = nombre de comprimés par boîte ÷ nombre de comprimés requis par traitement. Les boîtes dont le nom ne précise pas ce nombre, ou pour lesquelles la division ne donne pas un nombre entier, ne font pas l’objet d’une estimation.",
-              "pt": "O número de tratamentos completos é estimado apenas quando o nome do produto no Global Fund indica a quantidade de comprimidos por tratamento completo (\"40mg+320mg - 9\" corresponde a 9 comprimidos): tratamentos completos = número de comprimidos na embalagem ÷ número de comprimidos por tratamento completo. Não são feitas estimativas para embalagens cujo nome não informa essa quantidade ou quando a divisão não resulta em um número inteiro."
-            },
+            "source": "Global Fund PQR Transaction Summary, extract 23 Aug 2026",
             "sources": [
               "global-fund-pqr"
             ]
@@ -4241,24 +4142,24 @@
               },
               "status": "late",
               "label": {
-                "en": "US$41.5m since 2008",
-                "fr": "41,5 millions de dollars US depuis 2008",
-                "pt": "US$ 41,5 milhões desde 2008"
+                "en": "Figures under review",
+                "fr": "Chiffres en cours d'examen",
+                "pt": "Dados em análise"
               },
               "date": {
-                "en": "US$15.3m in 2025",
-                "fr": "15,3 millions de dollars US en 2025",
-                "pt": "US$ 11,6 milhões em 2025"
+                "en": "Since 2008",
+                "fr": "Depuis 2008",
+                "pt": "Desde 2008"
               },
               "next": {
-                "en": "Verify surge in next PQR extract",
-                "fr": "Vérifier la hausse dans le prochain extrait du rapport sur les prix et la qualité",
-                "pt": "Verificar o aumento acentuado no próximo extrato do PQR"
+                "en": "Figures to be added after review",
+                "fr": "Les chiffres seront ajoutés après examen.",
+                "pt": "Os números serão adicionados após revisão."
               },
               "anticipated": {
-                "en": "Q4 2026",
-                "fr": "Q4 2026",
-                "pt": "Q4 2026"
+                "en": "TBC",
+                "fr": "À confirmer",
+                "pt": "TBC"
               },
               "source": "Global Fund PQR (extract 23 Aug 2026)",
               "sources": [

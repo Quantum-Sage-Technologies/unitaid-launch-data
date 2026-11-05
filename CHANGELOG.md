@@ -2,6 +2,45 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-11-05T11-27-24Z
+
+34 changes for RBM's readers (published by @KylerXiv: Unitaid feedback 5 Nov 2026: procurement figures parked (presentations only), class label removed, translators' wording (PRs #148, #149)):
+
+- added `changelog`: 2026-11-05 · Procurement figures are withdrawn while they are reviewed. Each medicine's procurement section lists the presentations bought through Global Fund-financed orders, and the figures will be added again once they are confirmed.
+- added `changelog`: 2026-10-15 · We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what its share of Global Fund orders is measured against, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.
+- added `changelog`: 2026-09-08 · We found a real example of a country acting on the World Health Organization's advice: Ghana added this medicine as a backup first-choice treatment in 2022. It's still the only country confirmed to have done so. We also recorded the years Global Fund purchasing began for both recommended medicines (2018 and 2008).
+- added `changelog`: 2026-08-23 · Global Fund purchasing figures were added (orders since 2008). Nine versions of the medicine have passed World Health Organization quality checks.
+- added `changelog`: 2026-08-23 · Global Fund purchasing figures were added (orders since 2018). The European medicines decision date is now recorded.
+- removed `changelog`: 2026-10-15 · We updated the name of WHO's malaria department to the Department of Malaria and Neglected Tropical Diseases (MNT). The country counts for ASPY and DHA–PPQ now match the country access map, and we show how many countries a national medicines register confirms. We removed the years-late figures until the way they are worked out is agreed; the expected time for each stage stays. ALAQ's description now says it is still in clinical development and that its future role depends on trial results, regulators, WHO and countries. ASPY's description now says that registration and adoption vary by country and that LAUNCH is checking them country by country. For DHA–PPQ we explain what the 0.9–4.5% is a share of, describe its uses more carefully, and corrected Nigeria's count of active registrations from 26 to 25. No dates or statuses changed.
+- removed `changelog`: 2026-09-08 · We found a real example of a country acting on the World Health Organization's advice: Ghana added this medicine as a backup first-choice treatment in 2022. It's still the only country confirmed to have done so. We also recorded the years Global Fund purchasing began for both underused medicines (2018 and 2008).
+- removed `changelog`: 2026-08-23 · Purchasing figures added: the Global Fund has bought 11.5 million packs (US$41.5m) since 2008, with a sharp rise in 2025. Nine versions of the medicine have passed World Health Organization quality checks.
+- removed `changelog`: 2026-08-23 · Purchasing figures added: the Global Fund has bought 940,000 packs (US$14.5m) since 2018, most of it in 2025 for Uganda and Burkina Faso. The European medicines decision date is now recorded.
+- `products[pyramax].classLabel`: Recommended · underutilized → WHO-recommended
+- `products[pyramax].stages[6].note`: Global Fund procurement 2018–2025: 68 transactions, US$14.5m — modest overall, but US$1… → Bought through Global Fund-financed procurement since 2018. The procurement figures are…
+- `products[pyramax].stages[6].next`: Verify 2025 surge holds in next quarterly PQR extract → Procurement figures to be added after review
+- `products[pyramax].stages[6].nextDate`: Q4 2026 → TBC
+- `products[pyramax].detail.volume`: {"total":{"en":"68 transactions · US$14.5m (2018–2025)","fr":"68 transactions · 14,5 mi… → null
+- `products[pyramax].detail.milestones[7].label`: US$14.5m, 68 transactions (GF, to 2025) → Figures under review
+- `products[pyramax].detail.milestones[7].date`: US$11.6m in 2025 → Since 2018
+- `products[pyramax].detail.milestones[7].next`: Verify surge in next PQR extract → Figures to be added after review
+- `products[pyramax].detail.milestones[7].anticipated`: Q4 2026 → TBC
+- `products[pyramax].detail.volumeNote`: — → Procurement figures are being reviewed and will be added later.
+- `products[pyramax].detail.procurement`: — → {"presentations":[{"en":"20/60 mg granules · 90 sachets","fr":"Granulés de 20/60 mg · 9…
+- `products[dhappq].classLabel`: Recommended · underutilized → WHO-recommended
+- `products[dhappq].flag`: Procurement is the current access barrier — 0.9–4.5% of the value of all antimalarial m… → Procurement is the current access barrier, despite a WHO recommendation dating to 2010.…
+- `products[dhappq].barrier`: Only 0.9–4.5% of Global Fund antimalarial orders by value, 2022–24 → Procurement; figures under review
+- `products[dhappq].stages[6].note`: Global Fund orders go back to 2008 (US$41.5m over 234 transactions, 2008–2026), but hav… → Bought through Global Fund-financed procurement since 2008; the timeline counts from WH…
+- `products[dhappq].stages[6].next`: Verify 2025 surge holds in next quarterly PQR extract → Procurement figures to be added after review
+- `products[dhappq].stages[6].nextDate`: Q4 2026 → TBC
+- `products[dhappq].detail.price.note`: Pooled procurement reference pricing to be displayed once confirmed for release; PQR me… → Pooled procurement reference pricing to be displayed once confirmed for release
+- `products[dhappq].detail.volume`: {"total":{"en":"234 transactions · US$41.5m (2008–2026)","fr":"234 transactions · 41,5 … → null
+- `products[dhappq].detail.milestones[9].label`: US$41.5m since 2008 → Figures under review
+- `products[dhappq].detail.milestones[9].date`: US$15.3m in 2025 → Since 2008
+- `products[dhappq].detail.milestones[9].next`: Verify surge in next PQR extract → Figures to be added after review
+- `products[dhappq].detail.milestones[9].anticipated`: Q4 2026 → TBC
+- `products[dhappq].detail.volumeNote`: — → Procurement figures are being reviewed and will be added later.
+- `products[dhappq].detail.procurement`: — → {"presentations":[{"en":"20/160 mg dispersible tablets · blister of 3","fr":"Comprimés …
+
 ## 2026-11-04T16-41-40Z
 
 669 changes for RBM's readers (published by @codebyjackson: French and Brazilian Portuguese from the professional translators):
