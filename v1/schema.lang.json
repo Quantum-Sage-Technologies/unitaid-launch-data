@@ -185,6 +185,10 @@
               "source": {
                 "$ref": "#/$defs/text",
                 "description": "The kind of source behind the step, e.g. National medicines registers. A label, so it is translated."
+              },
+              "doneName": {
+                "$ref": "#/$defs/text",
+                "description": "Optional. The step's name on a product that has completed it (status done), in place of stages[i]: stage 2 is Stringent Regulatory Review (SRA) until done, then Stringent Regulatory Approval (SRA)."
               }
             }
           }

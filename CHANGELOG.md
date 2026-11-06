@@ -2,6 +2,14 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-11-06T05-53-35Z
+
+3 changes for RBM's readers (published by @codebyjackson: Stage 2: Stringent Regulatory Review (SRA) until completed (PR #153)):
+
+- `stages[1]`: Stringent Regulatory Approval (SRA) → Stringent Regulatory Review (SRA)
+- `stageInfo[1].doneName`: — → Stringent Regulatory Approval (SRA)
+- added `changelog`: 2026-11-06 · The second step is now called "Stringent Regulatory Review (SRA)" while a medicine is still waiting for approval, and "Stringent Regulatory Approval (SRA)" once it has been approved. No dates, statuses or figures changed.
+
 ## 2026-11-05T11-27-24Z
 
 34 changes for RBM's readers (published by @KylerXiv: Unitaid feedback 5 Nov 2026: procurement figures parked (presentations only), class label removed, translators' wording (PRs #148, #149)):

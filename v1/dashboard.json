@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T11:27:24.982Z",
-  "approved_at": "2026-11-05T11:27:24.983Z",
-  "approved_by": "KylerXiv",
+  "generated_at": "2026-11-06T05:53:35.539Z",
+  "approved_at": "2026-11-06T05:53:35.539Z",
+  "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Unitaid feedback 5 Nov 2026: procurement figures parked (presentations only), class label removed, translators' wording (PRs #148, #149)"
+    "reason": "Stage 2: Stringent Regulatory Review (SRA) until completed (PR #153)"
   },
-  "pipeline_commit": "6054af6ed76f4ef050b68f7340ee92bbe954ca0b",
-  "content_hash": "4d09eabb64c9c420a5e572a20a8cd4830e1e2a6565c953420fd01d48de724a9f",
+  "pipeline_commit": "0b5bfc337fd3780cf063c8c6735f933788deb6d1",
+  "content_hash": "96429fd5f0a423740048be4c8ba4a55a5e850346b94c33bade8041eca8c513ef",
   "locales": [
     "en",
     "fr",
     "pt"
   ],
   "data_status": "draft",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "source_coverage": [
     {
       "id": "bmjgh-rwanda-mft",
@@ -659,9 +659,9 @@
         "pt": "P&D e Área Clínica"
       },
       {
-        "en": "Stringent Regulatory Approval (SRA)",
-        "fr": "Approbation d’une autorité de réglementation rigoureuse (SRA)",
-        "pt": "Aprovação Regulatória Rigorosa (SRA)"
+        "en": "Stringent Regulatory Review (SRA)",
+        "fr": "Examen réglementaire rigoureux (SRA)",
+        "pt": "Análise regulatória rigorosa (SRA)"
       },
       {
         "en": "WHO recommendation",
@@ -775,6 +775,11 @@
           "en": "EMA registers",
           "fr": "Les registres de l’EMA.",
           "pt": "Registros da EMA"
+        },
+        "doneName": {
+          "en": "Stringent Regulatory Approval (SRA)",
+          "fr": "Approbation d’une autorité de réglementation rigoureuse (SRA)",
+          "pt": "Aprovação Regulatória Rigorosa (SRA)"
         }
       },
       {
@@ -1009,6 +1014,15 @@
       }
     },
     "changelog": [
+      {
+        "date": "2026-11-06",
+        "product": "All",
+        "plain": {
+          "en": "The second step is now called \"Stringent Regulatory Review (SRA)\" while a medicine is still waiting for approval, and \"Stringent Regulatory Approval (SRA)\" once it has been approved. No dates, statuses or figures changed.",
+          "fr": "La deuxième étape est désormais appelée « Examen réglementaire rigoureux (SRA) » tant qu'un médicament est en attente d'autorisation, et « Autorisation réglementaire rigoureuse (SRA) » une fois qu'il a été autorisé. Aucune date, aucun statut ni aucun chiffre n'ont été modifiés.",
+          "pt": "A segunda etapa agora é chamada de \"Análise Regulatória Rigorosa (SRA)\" enquanto um medicamento ainda aguarda aprovação, e \"Aprovação Regulatória Rigorosa (SRA)\" após a aprovação. Nenhuma data, status ou número foi alterado."
+        }
+      },
       {
         "date": "2026-11-05",
         "product": "ASPY, DHA–PPQ",
