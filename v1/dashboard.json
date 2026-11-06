@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-06T05:53:35.539Z",
-  "approved_at": "2026-11-06T05:53:35.539Z",
+  "generated_at": "2026-11-06T07:23:56.352Z",
+  "approved_at": "2026-11-06T07:23:56.353Z",
   "approved_by": "codebyjackson",
   "approval": {
     "trigger": "manual",
     "issue": null,
     "pr": null,
-    "reason": "Stage 2: Stringent Regulatory Review (SRA) until completed (PR #153)"
+    "reason": "Stage 2 names, timeline dots, no today; GanLum shown as Ganaplacide-lumefantrine / KLU156 (PRs #154, #155, #156)"
   },
-  "pipeline_commit": "0b5bfc337fd3780cf063c8c6735f933788deb6d1",
-  "content_hash": "96429fd5f0a423740048be4c8ba4a55a5e850346b94c33bade8041eca8c513ef",
+  "pipeline_commit": "91bb29cd8ccc441eb5f807c4194f0df88d4b19c9",
+  "content_hash": "026194bf78401f36b63fc59149f8fb5422ce5521764c367e62732184463e629a",
   "locales": [
     "en",
     "fr",
@@ -659,9 +659,9 @@
         "pt": "P&D e Área Clínica"
       },
       {
-        "en": "Stringent Regulatory Review (SRA)",
-        "fr": "Examen réglementaire rigoureux (SRA)",
-        "pt": "Análise regulatória rigorosa (SRA)"
+        "en": "Stringent Regulatory Approval (SRA)",
+        "fr": "Approbation d’une autorité de réglementation rigoureuse (SRA)",
+        "pt": "Aprovação Regulatória Rigorosa (SRA)"
       },
       {
         "en": "WHO recommendation",
@@ -776,10 +776,10 @@
           "fr": "Les registres de l’EMA.",
           "pt": "Registros da EMA"
         },
-        "doneName": {
-          "en": "Stringent Regulatory Approval (SRA)",
-          "fr": "Approbation d’une autorité de réglementation rigoureuse (SRA)",
-          "pt": "Aprovação Regulatória Rigorosa (SRA)"
+        "pendingName": {
+          "en": "Stringent Regulatory Review (SRA)",
+          "fr": "Examen réglementaire rigoureux (SRA)",
+          "pt": "Análise regulatória rigorosa (SRA)"
         }
       },
       {
@@ -1016,11 +1016,20 @@
     "changelog": [
       {
         "date": "2026-11-06",
+        "product": "Ganaplacide–lumefantrine",
+        "plain": {
+          "en": "This medicine is now listed under its full name, Ganaplacide–lumefantrine, with its development code KLU156. It was listed as GanLum.",
+          "fr": "Ce médicament figure désormais sous son nom complet, Ganaplacide–lumefantrine, avec son code de développement KLU156. Il figurait auparavant sous le nom GanLum.",
+          "pt": "Este medicamento agora aparece com o seu nome completo, Ganaplacide–lumefantrine, e o código de desenvolvimento KLU156. Antes aparecia como GanLum."
+        }
+      },
+      {
+        "date": "2026-11-06",
         "product": "All",
         "plain": {
-          "en": "The second step is now called \"Stringent Regulatory Review (SRA)\" while a medicine is still waiting for approval, and \"Stringent Regulatory Approval (SRA)\" once it has been approved. No dates, statuses or figures changed.",
-          "fr": "La deuxième étape est désormais appelée « Examen réglementaire rigoureux (SRA) » tant qu'un médicament est en attente d'autorisation, et « Autorisation réglementaire rigoureuse (SRA) » une fois qu'il a été autorisé. Aucune date, aucun statut ni aucun chiffre n'ont été modifiés.",
-          "pt": "A segunda etapa agora é chamada de \"Análise Regulatória Rigorosa (SRA)\" enquanto um medicamento ainda aguarda aprovação, e \"Aprovação Regulatória Rigorosa (SRA)\" após a aprovação. Nenhuma data, status ou número foi alterado."
+          "en": "The second step is called \"Stringent Regulatory Approval (SRA)\". A medicine that has not yet completed it shows \"Stringent Regulatory Review (SRA)\" instead, and Ganaplacide–lumefantrine shows \"Stringent Health Authority Review (SRA)\". No dates, statuses or figures changed.",
+          "fr": "La deuxième étape s’intitule « Approbation d’une autorité de réglementation rigoureuse (SRA) ». Un médicament qui ne l’a pas encore franchie affiche « Examen réglementaire rigoureux (SRA) », et Ganaplacide–lumefantrine affiche « Examen rigoureux des autorités sanitaires (SRA) ». Aucune date, aucun statut ni aucun chiffre n’a été modifié.",
+          "pt": "A segunda etapa é chamada de \"Aprovação Regulatória Rigorosa (SRA)\". Um medicamento que ainda não a concluiu mostra \"Análise regulatória rigorosa (SRA)\" em vez disso, e o Ganaplacide–lumefantrine mostra \"Análise rigorosa da autoridade sanitária (SRA)\". Nenhuma data, status ou número foi alterado."
         }
       },
       {
@@ -1383,8 +1392,8 @@
     "products": [
       {
         "id": "ganlum",
-        "name": "GanLum",
-        "inn": "Ganaplacide–lumefantrine (KLU156)",
+        "name": "Ganaplacide–lumefantrine",
+        "inn": "KLU156",
         "manufacturer": "Novartis",
         "acknowledgement": {
           "en": "Developed by Novartis with the scientific and financial support of MMV, and within the framework of the WANECAM2 consortium, funded by the European & Developing Countries Clinical Trials Partnership Programme supported by the European Union, with co-funding from the German Aerospace Center and the UK Department of Health and Social Care.",
@@ -1433,6 +1442,11 @@
           },
           {
             "status": "idle",
+            "pendingName": {
+              "en": "Stringent Health Authority Review (SRA)",
+              "fr": "Examen rigoureux des autorités sanitaires (SRA)",
+              "pt": "Análise rigorosa da autoridade sanitária (SRA)"
+            },
             "note": {
               "en": "Regulatory submission in preparation following Phase III success; no filing announced as of 15 Oct 2026",
               "fr": "Dossier réglementaire en préparation à la suite du succès de la phase III ; aucun dépôt annoncé en date du 15 octobre 2026",

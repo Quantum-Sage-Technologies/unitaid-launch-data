@@ -2,6 +2,20 @@
 
 Every publish of `v1/dashboard.json`, newest first. Written by the publish workflow.
 
+## 2026-11-06T07-23-56Z
+
+9 changes for RBM's readers (published by @codebyjackson: Stage 2 names, timeline dots, no today; GanLum shown as Ganaplacide-lumefantrine / KLU156 (PRs #154, #155, #156)):
+
+- `stages[1]`: Stringent Regulatory Review (SRA) → Stringent Regulatory Approval (SRA)
+- `stageInfo[1].doneName`: Stringent Regulatory Approval (SRA) → —
+- `stageInfo[1].pendingName`: — → Stringent Regulatory Review (SRA)
+- added `changelog`: 2026-11-06 · This medicine is now listed under its full name, Ganaplacide–lumefantrine, with its development code KLU156. It was listed as GanLum.
+- added `changelog`: 2026-11-06 · The second step is called "Stringent Regulatory Approval (SRA)". A medicine that has not yet completed it shows "Stringent Regulatory Review (SRA)" instead, and Ganaplacide–lumefantrine shows "Stringent Health Authority Review (SRA)". No dates, statuses or figures changed.
+- removed `changelog`: 2026-11-06 · The second step is now called "Stringent Regulatory Review (SRA)" while a medicine is still waiting for approval, and "Stringent Regulatory Approval (SRA)" once it has been approved. No dates, statuses or figures changed.
+- `products[ganlum].name`: GanLum → Ganaplacide–lumefantrine
+- `products[ganlum].inn`: Ganaplacide–lumefantrine (KLU156) → KLU156
+- `products[ganlum].stages[1].pendingName`: — → Stringent Health Authority Review (SRA)
+
 ## 2026-11-06T05-53-35Z
 
 3 changes for RBM's readers (published by @codebyjackson: Stage 2: Stringent Regulatory Review (SRA) until completed (PR #153)):
